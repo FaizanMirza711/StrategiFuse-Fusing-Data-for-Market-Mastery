@@ -1,1466 +1,1516 @@
 CustomerID,Campaign,InteractionDate,Outcome
-1,Social Media,2024-01-18 09:21:43,Unsubscribed
-1,Direct Mail,2024-02-12 04:18:19,Clicked
-1,SMS,2024-03-14 17:41:44,Converted
-2,Direct Mail,2023-07-05 15:25:43,Converted
-2,Social Media,2023-12-27 07:38:38,Unsubscribed
-2,Direct Mail,2023-10-10 11:52:26,Clicked
-3,Direct Mail,2023-07-21 23:23:49,Converted
-4,SMS,2024-04-07 02:52:31,Clicked
-4,Email,2023-11-20 08:41:05,Unsubscribed
-4,Email,2023-08-29 05:33:02,Unsubscribed
-5,Direct Mail,2024-01-04 10:47:51,Unsubscribed
-5,SMS,2023-08-07 18:21:08,Converted
-5,Direct Mail,2024-01-09 12:11:19,Converted
-6,SMS,2023-08-27 13:02:50,Unsubscribed
-6,Social Media,2024-01-23 03:30:13,Converted
-6,Email,2024-01-31 06:20:18,Opened
-7,Social Media,2023-12-16 02:02:44,Unsubscribed
-8,Email,2024-01-01 19:39:17,Unsubscribed
-9,Email,2023-06-30 22:45:21,Opened
-12,Social Media,2024-05-11 15:35:21,Clicked
-13,SMS,2024-03-17 10:56:32,Opened
-14,Direct Mail,2023-06-03 20:45:43,Unsubscribed
-14,Direct Mail,2023-07-14 21:14:32,Clicked
-14,Social Media,2024-03-20 11:34:53,Unsubscribed
-15,SMS,2024-03-27 19:21:01,Opened
-15,Social Media,2023-07-21 20:28:11,Clicked
-15,Social Media,2024-03-10 14:15:40,Opened
-16,Direct Mail,2023-09-17 13:23:23,Opened
-16,SMS,2023-09-03 08:23:27,Converted
-17,SMS,2023-08-12 23:18:47,Opened
-19,Email,2024-02-16 11:38:26,Clicked
-20,SMS,2023-08-10 02:14:31,Unsubscribed
-21,Social Media,2023-11-19 16:23:54,Unsubscribed
-21,Direct Mail,2024-05-06 17:32:20,Converted
-22,SMS,2024-05-06 02:48:05,Converted
-22,SMS,2024-05-12 08:46:07,Clicked
-23,Direct Mail,2024-04-12 15:27:49,Opened
-24,Email,2023-07-15 07:00:40,Converted
-24,Social Media,2024-03-18 18:48:25,Converted
-25,Direct Mail,2023-10-04 09:37:04,Opened
-25,Direct Mail,2023-10-17 20:25:16,Clicked
-27,Direct Mail,2023-06-01 16:24:31,Unsubscribed
-27,Email,2023-11-07 07:22:06,Converted
-27,Email,2023-06-24 17:44:16,Clicked
-28,Direct Mail,2024-02-05 00:37:43,Clicked
-28,Social Media,2023-06-24 02:25:13,Opened
-28,Email,2023-06-11 20:39:41,Converted
-30,Social Media,2024-03-03 17:20:35,Converted
-31,Email,2023-07-23 23:56:22,Opened
-32,Email,2024-01-26 06:21:26,Clicked
-32,SMS,2023-08-28 06:54:14,Converted
-33,Email,2023-12-07 05:59:28,Clicked
-34,SMS,2023-05-26 04:33:22,Opened
-34,SMS,2024-02-19 14:10:47,Clicked
-35,Email,2024-02-20 07:22:11,Unsubscribed
-36,Direct Mail,2023-12-16 12:35:05,Opened
-36,Email,2023-08-30 19:26:26,Clicked
-38,Direct Mail,2023-06-02 19:29:22,Converted
-38,Email,2023-09-05 14:49:18,Unsubscribed
-39,Direct Mail,2023-06-11 03:08:25,Converted
-39,Email,2023-08-18 03:27:37,Opened
-39,SMS,2024-01-12 17:51:39,Unsubscribed
-40,Direct Mail,2024-01-30 20:45:36,Unsubscribed
-41,Email,2024-01-04 03:59:59,Converted
-41,Email,2023-08-16 21:19:57,Unsubscribed
-41,Email,2024-04-21 17:35:32,Converted
-43,Social Media,2024-03-26 06:54:34,Unsubscribed
-43,SMS,2024-04-13 17:23:21,Unsubscribed
-43,Direct Mail,2024-01-03 06:41:53,Opened
-44,Social Media,2023-07-16 14:39:48,Opened
-44,SMS,2024-03-07 23:59:09,Clicked
-45,Direct Mail,2024-04-30 02:20:39,Opened
-45,Direct Mail,2024-02-06 19:40:32,Converted
-47,Direct Mail,2023-10-29 20:13:35,Unsubscribed
-49,Direct Mail,2023-12-29 19:24:27,Clicked
-49,Email,2024-03-25 06:37:05,Converted
-50,Email,2023-10-19 05:51:35,Clicked
-51,SMS,2024-02-22 06:03:32,Unsubscribed
-51,SMS,2023-08-04 03:32:31,Clicked
-52,Email,2024-01-22 08:31:26,Unsubscribed
-52,Email,2023-09-14 16:46:52,Clicked
-52,Email,2023-05-13 16:51:46,Clicked
-54,Direct Mail,2024-03-07 16:26:47,Opened
-55,Direct Mail,2024-04-24 00:37:25,Unsubscribed
-56,Email,2024-04-28 08:00:22,Clicked
-57,Email,2023-06-12 17:53:16,Converted
-57,Direct Mail,2023-07-30 07:55:09,Converted
-57,Email,2024-01-01 20:24:50,Clicked
-59,Social Media,2023-12-10 10:39:35,Converted
-60,Direct Mail,2023-11-04 00:45:55,Opened
-60,Social Media,2023-11-04 06:50:46,Unsubscribed
-61,Direct Mail,2023-06-11 01:21:42,Converted
-62,SMS,2024-01-07 15:47:38,Clicked
-63,SMS,2023-08-09 05:47:29,Converted
-63,Direct Mail,2024-01-30 08:18:58,Clicked
-65,Social Media,2023-09-17 12:28:32,Clicked
-65,Direct Mail,2024-03-04 05:50:38,Unsubscribed
-65,Email,2023-10-13 14:24:39,Converted
-66,Email,2024-04-08 09:02:57,Opened
-66,Email,2023-06-04 09:32:23,Clicked
-67,Social Media,2023-11-02 13:18:25,Clicked
-68,Direct Mail,2023-06-04 09:33:37,Unsubscribed
-70,Social Media,2024-02-01 16:33:16,Unsubscribed
-71,SMS,2024-01-31 17:43:12,Converted
-71,SMS,2024-02-06 05:08:30,Clicked
-71,Social Media,2023-10-07 00:33:40,Converted
-72,Email,2023-07-18 11:07:06,Opened
-72,Email,2023-11-12 05:29:51,Clicked
-72,SMS,2023-10-08 11:32:20,Clicked
-73,Social Media,2023-09-06 09:54:39,Opened
-73,Direct Mail,2024-04-14 19:49:02,Unsubscribed
-73,Email,2024-01-01 07:22:45,Opened
-74,Social Media,2024-04-09 19:16:57,Clicked
-74,Social Media,2023-10-07 08:02:16,Clicked
-74,Social Media,2023-12-04 15:05:57,Unsubscribed
-75,Direct Mail,2023-09-11 15:54:31,Clicked
-75,Email,2023-08-09 06:53:17,Unsubscribed
-75,Direct Mail,2023-08-01 21:08:36,Unsubscribed
-77,Direct Mail,2023-08-08 14:49:10,Clicked
-79,SMS,2023-11-24 20:39:28,Opened
-80,Direct Mail,2023-06-18 02:46:27,Unsubscribed
-81,Email,2023-12-24 06:06:25,Converted
-82,Email,2023-12-07 06:48:01,Converted
-83,Social Media,2023-12-18 18:54:27,Opened
-83,Email,2023-11-09 17:15:20,Unsubscribed
-83,SMS,2023-06-30 18:16:41,Clicked
-84,Direct Mail,2023-05-13 23:38:57,Converted
-84,Social Media,2024-01-31 16:46:42,Converted
-85,Direct Mail,2023-11-14 06:21:54,Unsubscribed
-85,Direct Mail,2023-12-31 14:24:03,Clicked
-85,Email,2023-06-11 14:00:30,Converted
-88,Email,2023-12-31 02:13:01,Unsubscribed
-89,Social Media,2023-12-22 01:46:32,Converted
-89,Social Media,2024-01-11 16:34:49,Converted
-94,Direct Mail,2023-10-05 04:43:11,Opened
-94,Email,2024-02-14 16:30:14,Opened
-94,Social Media,2023-09-15 21:22:55,Clicked
-95,Email,2023-06-21 04:17:44,Converted
-95,SMS,2023-11-04 17:15:37,Opened
-96,Direct Mail,2024-05-10 14:39:20,Opened
-96,SMS,2024-02-26 12:51:01,Opened
-97,Social Media,2023-09-20 17:11:21,Converted
-97,SMS,2023-12-15 15:38:45,Opened
-97,Email,2023-08-11 10:45:41,Converted
-98,Direct Mail,2024-04-13 03:15:38,Unsubscribed
-100,Social Media,2024-05-11 19:45:50,Unsubscribed
-101,Social Media,2023-07-16 23:08:00,Converted
-101,Direct Mail,2023-06-11 20:43:50,Unsubscribed
-102,Direct Mail,2024-04-04 20:08:31,Opened
-103,Email,2023-08-05 12:12:48,Unsubscribed
-103,Email,2024-03-09 08:32:22,Converted
-104,SMS,2024-02-16 04:43:57,Unsubscribed
-104,Social Media,2024-02-12 23:22:54,Converted
-104,Direct Mail,2023-10-04 01:50:32,Unsubscribed
-105,SMS,2024-02-12 22:46:39,Unsubscribed
-105,Direct Mail,2023-10-27 11:25:43,Unsubscribed
-107,Social Media,2023-11-10 21:26:57,Unsubscribed
-108,SMS,2023-11-27 15:56:10,Converted
-109,Social Media,2024-03-30 21:51:23,Clicked
-109,Direct Mail,2023-11-02 06:30:46,Converted
-109,Social Media,2024-04-12 23:04:21,Converted
-110,SMS,2023-11-03 07:59:30,Clicked
-114,Direct Mail,2024-02-28 02:56:15,Unsubscribed
-114,SMS,2024-02-15 06:49:15,Opened
-115,Direct Mail,2023-08-08 03:22:54,Converted
-115,SMS,2023-08-23 11:58:28,Unsubscribed
-116,Direct Mail,2024-03-25 23:33:17,Unsubscribed
-119,Social Media,2023-10-23 15:04:59,Unsubscribed
-121,Email,2023-08-26 16:51:24,Unsubscribed
-122,Email,2024-04-09 21:49:14,Unsubscribed
-122,SMS,2023-07-11 16:35:29,Opened
-122,Email,2024-04-29 19:37:57,Clicked
-123,Email,2024-04-22 02:45:16,Unsubscribed
-123,Direct Mail,2024-01-12 15:27:38,Opened
-124,Social Media,2024-03-08 01:00:46,Unsubscribed
-124,Social Media,2024-01-18 18:25:32,Clicked
-125,Email,2024-01-21 13:21:46,Opened
-125,Direct Mail,2023-08-26 10:50:56,Converted
-126,Direct Mail,2024-03-27 14:56:15,Unsubscribed
-126,Email,2023-12-30 14:15:42,Converted
-126,Email,2023-09-26 12:53:55,Clicked
-127,Email,2024-03-05 01:07:18,Converted
-127,SMS,2024-03-21 00:20:07,Opened
-128,Social Media,2024-04-06 14:59:37,Converted
-129,Social Media,2023-06-13 09:18:28,Clicked
-130,Direct Mail,2024-04-12 03:00:36,Converted
-131,SMS,2023-11-06 01:27:18,Unsubscribed
-131,SMS,2023-08-02 12:52:13,Opened
-132,Email,2023-08-23 13:50:39,Opened
-132,Email,2023-07-05 17:39:31,Unsubscribed
-132,Email,2023-12-02 15:26:37,Opened
-134,SMS,2024-03-21 02:28:27,Converted
-136,Social Media,2023-09-01 08:58:35,Clicked
-136,SMS,2024-05-03 21:03:56,Unsubscribed
-136,SMS,2024-05-07 01:04:54,Opened
-138,Email,2024-04-15 11:37:50,Unsubscribed
-140,Direct Mail,2024-01-18 16:44:22,Opened
-141,SMS,2023-11-01 21:12:13,Clicked
-141,Email,2023-12-05 06:52:31,Opened
-142,Direct Mail,2023-12-28 09:42:33,Opened
-142,SMS,2023-07-14 11:25:28,Unsubscribed
-144,Direct Mail,2024-05-09 07:36:06,Unsubscribed
-144,Social Media,2024-05-05 18:47:40,Converted
-145,Direct Mail,2024-01-10 03:14:27,Converted
-145,Email,2023-06-27 23:16:14,Opened
-146,SMS,2024-03-05 15:32:20,Unsubscribed
-146,Email,2023-10-11 02:36:10,Unsubscribed
-146,Email,2023-07-31 14:34:28,Clicked
-147,Email,2024-01-10 12:27:44,Clicked
-147,Email,2023-06-24 10:45:26,Converted
-147,Direct Mail,2024-04-24 05:15:37,Unsubscribed
-148,Email,2024-04-19 13:58:52,Converted
-148,SMS,2023-09-07 00:29:36,Opened
-148,Email,2023-12-20 21:44:54,Clicked
-149,Direct Mail,2024-04-16 14:45:50,Opened
-149,Direct Mail,2023-06-15 17:00:16,Unsubscribed
-151,Social Media,2023-09-24 16:01:00,Converted
-151,Direct Mail,2023-10-22 02:41:49,Converted
-152,Social Media,2024-01-21 04:34:44,Unsubscribed
-153,Direct Mail,2023-12-12 13:48:13,Converted
-154,Social Media,2023-08-19 14:51:49,Opened
-156,Direct Mail,2023-11-03 09:08:28,Unsubscribed
-156,Social Media,2023-10-15 00:03:32,Opened
-157,SMS,2024-03-10 08:30:16,Unsubscribed
-157,Social Media,2024-03-20 09:16:31,Opened
-157,Social Media,2023-11-15 13:44:35,Unsubscribed
-158,Email,2024-02-22 15:14:42,Unsubscribed
-159,SMS,2024-02-27 17:03:50,Clicked
-159,Direct Mail,2024-01-30 20:30:58,Clicked
-161,Email,2023-11-05 02:47:54,Unsubscribed
-161,SMS,2023-09-02 18:46:00,Opened
-161,SMS,2024-04-21 22:09:26,Opened
-162,Email,2023-09-28 21:54:11,Unsubscribed
-162,Email,2023-11-14 22:17:38,Clicked
-163,Email,2023-08-03 16:43:56,Converted
-164,Direct Mail,2024-03-24 14:26:18,Opened
-165,Social Media,2023-12-21 06:07:22,Converted
-165,Social Media,2024-03-11 23:36:43,Clicked
-166,SMS,2023-09-09 18:05:14,Opened
-167,Social Media,2023-09-14 20:17:06,Converted
-167,SMS,2023-12-20 12:55:59,Converted
-167,Direct Mail,2023-11-12 08:01:00,Clicked
-168,Direct Mail,2024-04-08 16:44:25,Clicked
-168,Direct Mail,2023-09-16 09:02:32,Converted
-168,Direct Mail,2023-11-05 07:25:21,Unsubscribed
-170,SMS,2023-06-02 13:19:12,Converted
-170,SMS,2023-11-08 21:45:02,Clicked
-170,Social Media,2023-08-03 21:33:49,Converted
-171,SMS,2023-06-19 19:56:50,Clicked
-171,Social Media,2023-10-23 11:15:13,Clicked
-172,Social Media,2023-11-21 23:24:30,Unsubscribed
-172,Email,2023-05-29 08:30:26,Opened
-173,Email,2024-04-29 13:35:35,Opened
-177,Email,2023-12-22 06:29:49,Unsubscribed
-177,Direct Mail,2023-09-21 02:21:07,Unsubscribed
-177,SMS,2024-04-12 20:05:02,Converted
-178,Email,2023-06-14 23:57:37,Opened
-181,Email,2023-09-02 05:45:41,Clicked
-181,Direct Mail,2024-03-01 16:45:46,Unsubscribed
-181,SMS,2023-09-22 09:06:20,Clicked
-183,Email,2024-04-28 14:55:38,Clicked
-184,Email,2023-08-30 09:10:02,Clicked
-184,Direct Mail,2024-01-10 16:35:32,Converted
-185,Email,2023-11-13 08:18:05,Unsubscribed
-186,Direct Mail,2024-03-11 22:34:33,Converted
-187,Direct Mail,2023-12-24 04:35:53,Unsubscribed
-187,Direct Mail,2023-10-01 21:39:43,Opened
-188,SMS,2024-05-03 22:43:49,Converted
-189,Direct Mail,2023-12-26 14:38:11,Converted
-189,Direct Mail,2023-07-12 07:55:30,Converted
-189,Social Media,2024-03-06 15:47:12,Opened
-190,Direct Mail,2024-02-19 22:20:10,Clicked
-190,Email,2024-03-05 04:34:50,Unsubscribed
-191,Direct Mail,2023-08-03 18:09:52,Converted
-191,SMS,2024-01-14 12:26:17,Converted
-191,Email,2024-02-27 08:25:32,Unsubscribed
-192,SMS,2023-10-01 06:33:35,Clicked
-193,Direct Mail,2024-04-02 12:15:54,Unsubscribed
-193,Email,2023-12-21 18:27:54,Unsubscribed
-194,Social Media,2024-03-19 03:01:36,Unsubscribed
-194,Social Media,2024-03-06 04:39:52,Converted
-194,Direct Mail,2023-09-14 13:43:48,Converted
-195,Email,2024-03-25 14:13:00,Clicked
-195,SMS,2024-02-24 07:21:22,Unsubscribed
-196,Social Media,2023-11-26 17:47:11,Unsubscribed
-196,SMS,2024-01-19 23:22:36,Converted
-197,Social Media,2023-07-25 10:39:30,Clicked
-198,Direct Mail,2023-09-06 11:26:11,Opened
-198,Email,2023-08-09 14:49:15,Opened
-200,SMS,2023-08-30 16:11:12,Converted
-200,Social Media,2023-09-30 09:21:32,Opened
-200,Direct Mail,2024-03-08 23:59:16,Clicked
-201,Email,2024-03-19 00:52:15,Unsubscribed
-201,Direct Mail,2023-07-31 07:30:02,Converted
-201,SMS,2024-04-14 20:50:22,Opened
-202,SMS,2024-02-09 14:58:42,Opened
-203,Direct Mail,2023-09-20 21:34:57,Clicked
-204,SMS,2024-02-13 15:49:02,Unsubscribed
-205,Email,2023-07-23 10:05:08,Opened
-205,Social Media,2023-08-14 21:27:04,Unsubscribed
-208,Email,2024-03-17 21:27:40,Opened
-209,SMS,2024-03-07 19:30:17,Opened
-209,SMS,2023-09-22 10:29:52,Unsubscribed
-210,Direct Mail,2023-10-06 18:26:04,Clicked
-211,Social Media,2023-10-27 08:14:32,Clicked
-211,Direct Mail,2024-05-12 06:24:16,Converted
-212,Social Media,2024-03-02 03:56:23,Converted
-214,SMS,2024-03-08 05:49:25,Converted
-214,Direct Mail,2024-03-15 00:10:05,Converted
-216,Email,2023-09-24 18:08:08,Clicked
-216,Direct Mail,2023-09-29 01:10:53,Unsubscribed
-217,Direct Mail,2023-10-24 12:35:51,Converted
-217,Social Media,2024-01-25 02:57:46,Opened
-218,Direct Mail,2023-05-20 12:54:11,Clicked
-218,Direct Mail,2023-07-27 10:31:38,Unsubscribed
-220,Social Media,2024-02-27 23:26:21,Converted
-222,Email,2024-03-24 11:55:18,Unsubscribed
-222,Direct Mail,2024-01-30 23:52:48,Converted
-222,Social Media,2024-03-02 23:29:46,Clicked
-223,Email,2023-08-22 09:07:10,Converted
-224,Social Media,2023-11-07 11:58:38,Unsubscribed
-224,SMS,2023-09-14 01:28:44,Opened
-224,Social Media,2023-09-12 09:10:50,Converted
-225,Direct Mail,2023-06-04 23:56:02,Unsubscribed
-226,Direct Mail,2023-08-18 03:58:55,Converted
-226,Email,2024-05-06 21:28:23,Opened
-226,SMS,2023-10-06 17:42:54,Converted
-227,SMS,2024-01-11 23:05:05,Unsubscribed
-227,Direct Mail,2024-03-22 09:04:13,Unsubscribed
-228,Email,2024-02-29 15:29:31,Opened
-228,SMS,2023-12-02 23:57:40,Converted
-228,SMS,2023-12-05 22:06:59,Unsubscribed
-230,Direct Mail,2023-10-30 06:07:00,Opened
-231,Email,2023-10-28 23:49:41,Unsubscribed
-232,Social Media,2024-01-11 08:47:22,Clicked
-232,Email,2024-02-05 19:25:43,Opened
-233,SMS,2023-09-13 08:20:22,Opened
-233,SMS,2023-09-16 14:36:55,Unsubscribed
-233,Email,2023-12-18 18:23:33,Clicked
-234,Social Media,2024-02-26 23:27:17,Unsubscribed
-234,Direct Mail,2023-12-31 10:26:33,Unsubscribed
-235,Social Media,2023-10-28 00:45:02,Unsubscribed
-235,Email,2023-07-07 18:56:37,Opened
-235,Email,2024-02-01 11:17:42,Converted
-236,Social Media,2023-05-22 14:45:36,Unsubscribed
-236,SMS,2024-04-22 22:34:55,Clicked
-238,Direct Mail,2023-10-14 05:55:30,Opened
-239,Email,2023-11-16 14:17:26,Converted
-239,Email,2024-01-11 14:14:17,Converted
-240,SMS,2023-11-10 22:28:30,Opened
-241,SMS,2023-08-19 00:53:37,Unsubscribed
-241,SMS,2023-07-07 16:05:15,Converted
-242,SMS,2023-05-24 06:41:03,Unsubscribed
-243,Email,2023-07-16 20:50:27,Clicked
-243,Social Media,2023-12-20 08:44:51,Converted
-243,Direct Mail,2023-12-19 15:19:38,Opened
-244,Email,2023-07-18 05:10:19,Opened
-244,Email,2023-12-04 22:30:03,Clicked
-245,Email,2023-11-12 12:05:59,Clicked
-246,Direct Mail,2023-10-12 03:05:06,Unsubscribed
-246,Direct Mail,2023-06-25 01:06:05,Converted
-246,SMS,2023-09-18 09:45:47,Clicked
-247,SMS,2024-01-09 03:13:38,Unsubscribed
-247,Social Media,2023-07-23 08:36:46,Opened
-247,Email,2023-10-05 04:23:24,Converted
-249,Email,2024-01-12 23:00:57,Clicked
-250,Direct Mail,2023-08-24 06:50:24,Clicked
-251,Social Media,2023-09-30 05:09:07,Clicked
-253,Direct Mail,2024-03-10 15:12:56,Converted
-253,Direct Mail,2023-09-12 20:27:07,Converted
-254,Direct Mail,2023-12-09 19:55:03,Unsubscribed
-254,Social Media,2024-02-27 11:35:14,Opened
-255,Direct Mail,2023-06-20 09:45:33,Converted
-255,Email,2023-05-16 15:35:05,Opened
-255,Direct Mail,2023-09-13 04:02:56,Unsubscribed
-256,Social Media,2024-04-21 23:30:58,Unsubscribed
-256,Direct Mail,2024-05-11 02:26:33,Converted
-257,Direct Mail,2023-12-09 14:34:25,Converted
-258,SMS,2023-12-02 00:43:47,Clicked
-259,Social Media,2023-09-23 18:18:15,Clicked
-259,SMS,2024-04-20 12:32:57,Converted
-259,Social Media,2024-04-14 07:03:24,Unsubscribed
-260,Social Media,2024-03-27 09:39:48,Converted
-260,SMS,2023-06-26 16:25:14,Opened
-260,SMS,2023-10-01 04:27:16,Clicked
-261,SMS,2024-03-18 10:47:04,Converted
-261,Social Media,2023-06-13 09:12:57,Unsubscribed
-261,Social Media,2023-05-26 19:47:20,Opened
-262,Email,2023-08-08 11:17:23,Converted
-262,Social Media,2023-11-08 03:52:52,Opened
-262,SMS,2023-10-01 15:03:06,Clicked
-263,Social Media,2023-11-20 21:10:37,Opened
-263,SMS,2024-03-05 12:45:02,Opened
-263,Social Media,2023-11-05 05:42:20,Unsubscribed
-265,SMS,2024-04-14 18:57:59,Converted
-265,Direct Mail,2023-06-22 19:09:51,Clicked
-265,Email,2023-09-15 20:31:55,Opened
-266,Email,2024-04-02 09:37:52,Clicked
-266,SMS,2024-02-20 04:42:09,Opened
-266,Email,2024-03-18 05:18:22,Opened
-267,Email,2023-11-30 12:22:01,Unsubscribed
-267,Direct Mail,2023-07-20 13:09:43,Clicked
-267,Email,2023-05-15 11:31:29,Converted
-269,SMS,2024-03-13 19:49:20,Converted
-269,SMS,2023-07-14 14:16:10,Opened
-270,Social Media,2023-12-15 07:53:09,Converted
-271,Social Media,2023-06-13 05:35:15,Opened
-272,Direct Mail,2024-03-01 09:01:57,Unsubscribed
-272,SMS,2023-11-22 10:00:38,Converted
-272,Social Media,2023-08-17 08:56:08,Clicked
-273,SMS,2024-02-15 09:41:16,Opened
-273,Direct Mail,2024-03-25 23:07:13,Clicked
-273,Direct Mail,2023-06-26 05:00:51,Clicked
-275,Email,2023-10-25 06:56:40,Opened
-275,Social Media,2024-03-14 03:01:35,Clicked
-277,SMS,2023-08-23 21:57:31,Unsubscribed
-282,Social Media,2024-01-29 00:26:46,Unsubscribed
-282,Direct Mail,2024-04-13 02:55:18,Clicked
-283,Direct Mail,2023-06-03 01:38:28,Clicked
-285,Direct Mail,2024-02-10 17:10:55,Converted
-286,SMS,2024-04-28 19:45:00,Unsubscribed
-288,SMS,2023-09-02 15:26:27,Unsubscribed
-291,SMS,2024-04-08 05:11:07,Clicked
-291,Email,2023-08-02 18:34:13,Unsubscribed
-294,Social Media,2024-01-05 11:29:10,Unsubscribed
-295,Email,2024-04-15 22:11:21,Opened
-295,Social Media,2023-11-21 08:18:54,Converted
-296,Email,2024-01-21 20:42:51,Unsubscribed
-296,Social Media,2023-08-04 17:03:59,Opened
-297,Direct Mail,2023-07-20 04:35:32,Clicked
-297,Direct Mail,2024-05-05 18:28:08,Clicked
-297,Social Media,2023-09-29 07:31:35,Opened
-299,Email,2023-08-21 19:23:51,Opened
-299,Social Media,2023-10-15 05:49:27,Clicked
-299,Email,2024-01-02 08:52:05,Opened
-301,Social Media,2023-06-12 20:54:28,Converted
-302,Direct Mail,2023-07-08 06:13:38,Unsubscribed
-302,Social Media,2024-04-08 16:44:45,Clicked
-302,Direct Mail,2023-06-01 22:53:16,Unsubscribed
-304,Direct Mail,2024-03-05 20:30:37,Clicked
-304,SMS,2024-01-25 23:57:54,Unsubscribed
-304,SMS,2024-04-29 23:42:59,Converted
-306,Social Media,2023-09-10 12:24:19,Opened
-306,Direct Mail,2023-09-21 21:19:13,Opened
-307,Direct Mail,2023-11-19 14:41:48,Opened
-308,Direct Mail,2023-05-23 23:23:04,Converted
-308,Social Media,2023-09-14 16:31:07,Opened
-309,Social Media,2024-01-25 15:27:23,Opened
-309,Email,2024-03-21 21:21:30,Clicked
-309,Direct Mail,2024-03-02 12:58:11,Converted
-310,Direct Mail,2024-01-22 09:04:15,Converted
-310,SMS,2023-07-03 21:13:45,Unsubscribed
-312,Email,2024-04-30 21:37:53,Converted
-312,SMS,2024-04-09 21:41:49,Clicked
-313,Email,2023-08-31 07:30:06,Unsubscribed
-315,SMS,2023-08-23 08:57:17,Clicked
-316,Social Media,2023-11-30 22:00:46,Unsubscribed
-318,Direct Mail,2024-05-02 16:11:46,Clicked
-318,Email,2023-07-30 11:02:09,Unsubscribed
-318,Direct Mail,2024-02-28 04:13:33,Unsubscribed
-319,Email,2023-10-08 04:07:36,Clicked
-319,Social Media,2024-05-05 00:43:24,Converted
-319,Direct Mail,2023-08-30 04:26:05,Opened
-320,Social Media,2024-01-14 01:24:31,Converted
-320,Direct Mail,2024-03-25 09:51:20,Unsubscribed
-321,Email,2023-11-27 19:39:25,Unsubscribed
-321,Social Media,2023-08-20 06:00:55,Clicked
-321,Email,2023-09-10 13:12:58,Opened
-322,Social Media,2023-09-14 06:37:28,Opened
-323,Email,2023-06-02 03:40:51,Opened
-323,Direct Mail,2024-04-29 09:04:51,Clicked
-323,Email,2024-01-17 09:47:23,Opened
-324,Email,2023-09-24 08:08:27,Opened
-324,SMS,2023-08-08 05:12:04,Converted
-324,Direct Mail,2023-10-13 19:52:57,Clicked
-326,Direct Mail,2023-07-01 16:10:58,Unsubscribed
-326,Social Media,2023-08-25 14:23:41,Clicked
-326,Direct Mail,2023-06-05 10:25:11,Unsubscribed
-327,SMS,2024-02-25 12:27:53,Opened
-327,Direct Mail,2024-01-08 19:09:50,Unsubscribed
-327,Social Media,2024-01-12 12:15:13,Converted
-328,Direct Mail,2024-02-29 16:17:45,Opened
-328,SMS,2024-05-08 09:32:35,Converted
-329,Direct Mail,2023-06-12 00:45:15,Clicked
-329,Email,2023-11-07 04:57:44,Unsubscribed
-329,SMS,2023-05-26 00:06:19,Clicked
-330,Direct Mail,2023-05-21 20:24:43,Clicked
-330,Social Media,2023-07-31 08:50:21,Clicked
-330,Email,2023-07-11 16:24:16,Opened
-331,Email,2023-06-27 13:08:44,Unsubscribed
-332,Direct Mail,2024-04-03 14:29:37,Converted
-333,Social Media,2024-04-22 13:01:28,Unsubscribed
-333,Direct Mail,2024-04-09 21:20:03,Converted
-333,Social Media,2023-11-06 07:38:11,Converted
-334,Email,2024-01-14 01:45:22,Clicked
-334,Email,2024-01-14 22:28:01,Opened
-334,Direct Mail,2024-02-27 08:56:27,Opened
-335,SMS,2023-05-18 10:17:02,Converted
-335,Social Media,2023-11-17 03:56:58,Converted
-335,SMS,2023-05-31 03:23:52,Opened
-336,Social Media,2023-07-19 10:16:13,Unsubscribed
-337,Direct Mail,2024-03-04 23:08:05,Unsubscribed
-337,SMS,2023-11-19 17:23:54,Unsubscribed
-337,Direct Mail,2023-12-06 15:51:57,Converted
-338,Email,2024-03-02 10:31:32,Clicked
-339,Email,2024-04-30 18:59:08,Opened
-339,Direct Mail,2023-12-22 00:11:28,Converted
-339,Social Media,2023-12-09 20:43:37,Opened
-340,Social Media,2023-06-27 20:51:05,Opened
-340,Social Media,2023-09-01 07:23:51,Clicked
-340,SMS,2023-06-01 01:10:39,Unsubscribed
-344,Social Media,2023-07-04 10:10:48,Clicked
-344,Email,2023-06-28 10:14:37,Opened
-344,Direct Mail,2024-02-19 03:29:47,Unsubscribed
-345,SMS,2023-07-11 20:39:58,Unsubscribed
-346,Email,2024-03-14 16:03:00,Opened
-346,SMS,2023-07-09 17:58:27,Opened
-346,SMS,2024-02-02 13:37:10,Converted
-347,Social Media,2023-06-09 23:07:23,Unsubscribed
-348,Direct Mail,2023-11-01 03:39:28,Clicked
-348,Email,2023-10-21 16:43:44,Clicked
-350,Email,2024-01-25 18:04:05,Opened
-350,Social Media,2023-12-25 23:03:06,Clicked
-352,Social Media,2024-04-03 00:40:22,Converted
-352,Email,2024-04-18 03:05:56,Opened
-353,Email,2023-11-01 04:36:01,Opened
-354,Direct Mail,2023-10-20 23:52:07,Converted
-354,Email,2024-04-02 13:15:25,Clicked
-355,Social Media,2024-02-26 02:04:19,Unsubscribed
-355,Email,2023-11-04 20:40:15,Clicked
-356,Email,2023-06-18 02:55:09,Clicked
-359,SMS,2023-09-24 19:53:48,Converted
-359,SMS,2023-09-14 03:20:03,Opened
-361,SMS,2023-06-02 03:46:43,Clicked
-362,Social Media,2023-10-07 02:17:04,Clicked
-362,Direct Mail,2023-09-11 05:32:21,Converted
-364,Social Media,2024-04-30 20:03:48,Opened
-364,Social Media,2023-08-07 03:40:35,Unsubscribed
-364,Email,2024-02-08 10:55:38,Converted
-367,Social Media,2023-07-09 16:21:18,Converted
-367,SMS,2023-06-02 23:43:22,Clicked
-367,Direct Mail,2024-05-06 17:44:41,Unsubscribed
-368,Email,2023-11-19 20:08:09,Clicked
-368,SMS,2023-10-11 10:55:40,Converted
-369,SMS,2023-11-23 08:17:56,Unsubscribed
-369,Email,2023-09-15 17:45:26,Unsubscribed
-369,Email,2023-10-03 11:22:56,Converted
-370,Email,2023-09-29 18:25:58,Converted
-370,SMS,2023-10-18 12:01:42,Opened
-370,Email,2023-08-15 15:10:44,Unsubscribed
-371,SMS,2023-08-08 12:19:30,Opened
-371,Social Media,2024-03-25 16:22:33,Unsubscribed
-371,Direct Mail,2023-11-11 18:18:42,Clicked
-372,Social Media,2024-03-05 17:19:20,Clicked
-372,SMS,2023-06-15 12:32:06,Converted
-374,Email,2023-11-29 06:29:42,Converted
-374,SMS,2023-08-05 14:36:26,Clicked
-374,Direct Mail,2024-04-11 19:27:06,Opened
-375,Email,2023-12-10 15:20:42,Unsubscribed
-375,Social Media,2023-12-24 23:54:23,Unsubscribed
-376,SMS,2024-04-07 04:19:56,Opened
-376,Email,2024-03-28 19:18:23,Clicked
-377,Social Media,2023-12-26 17:03:42,Converted
-377,SMS,2023-11-18 12:13:48,Opened
-378,Social Media,2024-04-01 17:21:51,Unsubscribed
-379,Social Media,2024-03-28 03:13:03,Clicked
-379,Email,2023-08-05 11:12:29,Unsubscribed
-383,Direct Mail,2023-12-05 13:38:11,Opened
-383,SMS,2023-08-22 08:17:50,Opened
-384,Social Media,2023-08-06 21:34:06,Clicked
-385,SMS,2023-12-23 07:57:07,Converted
-385,Direct Mail,2024-03-01 16:29:17,Unsubscribed
-385,Social Media,2024-04-13 11:03:29,Unsubscribed
-386,Social Media,2024-04-14 18:57:03,Clicked
-386,Email,2023-05-30 22:46:35,Unsubscribed
-387,Direct Mail,2024-03-03 19:21:59,Clicked
-387,Email,2023-10-25 12:03:15,Clicked
-388,SMS,2024-03-29 14:28:55,Converted
-388,Email,2024-03-24 14:28:42,Clicked
-389,Social Media,2023-08-17 00:04:35,Unsubscribed
-390,Direct Mail,2023-09-21 18:18:07,Converted
-390,SMS,2024-01-06 15:47:14,Clicked
-390,SMS,2023-10-14 22:23:19,Converted
-392,Direct Mail,2024-01-22 20:21:46,Clicked
-392,Direct Mail,2023-11-07 14:02:04,Converted
-392,SMS,2023-09-23 23:12:57,Converted
-393,Direct Mail,2024-01-07 07:37:43,Unsubscribed
-393,Direct Mail,2024-01-15 11:38:28,Clicked
-394,SMS,2023-06-26 11:27:05,Converted
-394,SMS,2023-11-19 19:08:47,Converted
-395,Email,2023-07-13 15:34:17,Opened
-396,Social Media,2024-04-05 05:58:10,Unsubscribed
-397,SMS,2023-06-18 23:16:30,Converted
-397,SMS,2024-02-14 17:36:12,Unsubscribed
-397,SMS,2023-08-19 05:02:26,Unsubscribed
-399,Email,2023-10-23 08:55:01,Clicked
-400,Social Media,2023-12-26 21:47:30,Unsubscribed
-400,Social Media,2023-12-19 21:22:43,Opened
-400,Direct Mail,2023-09-10 00:11:15,Converted
-401,Direct Mail,2023-06-23 08:31:11,Clicked
-401,Email,2023-06-20 13:15:45,Opened
-402,Email,2023-10-09 02:15:00,Clicked
-402,Email,2024-05-01 07:58:48,Converted
-402,Direct Mail,2023-12-22 14:15:30,Opened
-404,SMS,2024-04-06 14:51:45,Unsubscribed
-405,SMS,2023-08-14 14:04:49,Opened
-405,Email,2024-03-05 02:01:44,Unsubscribed
-408,Email,2024-01-24 08:07:25,Opened
-408,Social Media,2024-04-28 16:47:13,Clicked
-408,SMS,2023-12-25 13:09:47,Opened
-409,SMS,2023-10-23 01:22:54,Unsubscribed
-409,Direct Mail,2024-02-04 02:25:43,Clicked
-413,Social Media,2023-10-01 01:22:02,Unsubscribed
-413,Email,2023-09-20 06:13:46,Clicked
-414,Email,2024-04-12 15:45:40,Clicked
-414,Social Media,2023-08-09 20:05:32,Unsubscribed
-415,Social Media,2023-10-07 03:09:20,Converted
-415,SMS,2023-12-28 07:06:11,Unsubscribed
-415,Direct Mail,2023-11-05 15:51:17,Unsubscribed
-416,Email,2023-12-14 11:38:52,Clicked
-416,Email,2024-03-04 16:15:39,Clicked
-416,Social Media,2023-11-30 20:27:16,Unsubscribed
-417,Social Media,2024-04-07 17:38:14,Unsubscribed
-417,Direct Mail,2023-06-24 00:54:52,Opened
-419,Social Media,2023-08-06 10:06:47,Clicked
-419,SMS,2024-01-06 05:24:46,Unsubscribed
-420,Email,2024-02-22 20:50:43,Opened
-420,Email,2023-12-17 01:12:28,Clicked
-421,Email,2023-06-01 05:14:21,Converted
-421,Direct Mail,2024-01-08 14:21:36,Converted
-424,Email,2023-06-17 01:55:52,Unsubscribed
-424,Social Media,2023-12-15 00:53:17,Converted
-424,Social Media,2023-12-04 22:03:11,Converted
-425,SMS,2024-02-19 11:45:13,Clicked
-426,SMS,2023-06-06 10:18:25,Clicked
-426,Email,2023-07-25 18:42:43,Opened
-427,SMS,2023-12-15 04:54:10,Clicked
-427,Direct Mail,2024-02-19 01:41:06,Opened
-428,Email,2023-11-29 13:30:03,Opened
-428,SMS,2023-09-24 20:37:36,Clicked
-429,SMS,2024-04-21 10:18:30,Opened
-430,Direct Mail,2023-12-28 21:53:01,Opened
-430,Email,2023-06-08 05:17:13,Opened
-430,SMS,2024-02-03 05:12:23,Opened
-431,SMS,2024-02-09 23:53:59,Opened
-431,SMS,2024-01-26 11:53:05,Unsubscribed
-432,Email,2023-09-03 11:29:20,Opened
-433,Email,2023-05-25 14:14:16,Unsubscribed
-433,Direct Mail,2023-08-20 21:20:13,Converted
-433,SMS,2024-01-11 17:51:22,Converted
-434,SMS,2024-01-29 04:54:12,Opened
-435,Social Media,2023-09-10 01:49:52,Clicked
-438,Social Media,2023-09-14 18:05:25,Clicked
-438,Social Media,2023-10-17 12:35:43,Clicked
-439,Email,2023-11-26 16:21:14,Unsubscribed
-439,Email,2024-03-14 09:30:29,Converted
-441,Social Media,2024-03-14 19:18:22,Clicked
-442,SMS,2024-01-10 01:00:42,Opened
-442,Email,2024-05-08 23:03:18,Opened
-442,Email,2023-12-04 12:07:47,Clicked
-443,Direct Mail,2024-03-03 14:04:56,Unsubscribed
-444,SMS,2024-05-10 23:41:12,Unsubscribed
-445,Email,2024-03-10 05:22:59,Opened
-445,Social Media,2024-04-04 22:00:14,Opened
-447,SMS,2023-09-14 00:34:54,Clicked
-448,Direct Mail,2023-07-07 16:46:10,Opened
-448,Social Media,2023-11-22 23:37:14,Converted
-449,SMS,2023-07-26 01:32:39,Converted
-449,Social Media,2023-05-14 17:39:00,Unsubscribed
-449,Email,2023-07-16 18:33:50,Converted
-450,Social Media,2023-07-03 14:52:21,Clicked
-450,Email,2024-02-24 06:43:36,Clicked
-452,Direct Mail,2023-09-19 05:09:25,Converted
-452,Email,2023-10-18 06:11:40,Opened
-452,Email,2023-12-16 15:33:44,Clicked
-454,Social Media,2024-04-24 08:13:03,Unsubscribed
-454,Social Media,2023-06-17 03:50:47,Unsubscribed
-457,Direct Mail,2024-03-06 10:08:21,Converted
-457,Social Media,2023-12-02 00:26:33,Unsubscribed
-458,SMS,2023-06-27 06:45:31,Converted
-459,SMS,2024-02-23 15:54:44,Converted
-460,Email,2023-07-12 20:46:43,Converted
-460,Social Media,2023-12-19 00:54:56,Converted
-460,Social Media,2024-02-23 08:09:46,Converted
-461,Social Media,2023-12-25 07:07:40,Unsubscribed
-463,Email,2024-01-08 13:41:39,Unsubscribed
-463,SMS,2024-03-05 08:47:42,Clicked
-464,Social Media,2023-11-19 09:51:51,Clicked
-464,SMS,2023-07-11 00:11:09,Clicked
-465,SMS,2024-02-05 13:18:22,Unsubscribed
-466,Direct Mail,2023-07-20 04:38:38,Converted
-467,SMS,2023-11-04 18:07:23,Opened
-467,SMS,2023-11-29 10:31:10,Unsubscribed
-467,SMS,2024-03-19 22:14:10,Unsubscribed
-468,SMS,2023-07-12 19:30:45,Clicked
-468,SMS,2023-06-21 19:16:15,Unsubscribed
-468,Email,2023-07-21 02:13:31,Clicked
-469,Direct Mail,2023-11-25 04:19:11,Opened
-469,Direct Mail,2024-03-29 12:43:40,Converted
-469,SMS,2024-03-30 08:36:31,Opened
-470,Social Media,2023-11-14 03:22:29,Opened
-470,Direct Mail,2024-02-02 00:04:50,Opened
-470,Direct Mail,2024-01-07 23:39:38,Clicked
-471,Direct Mail,2023-09-12 14:51:33,Converted
-471,Social Media,2023-05-21 14:39:20,Converted
-472,Social Media,2023-09-21 19:40:53,Opened
-473,SMS,2023-12-02 21:42:49,Clicked
-473,Direct Mail,2024-01-11 13:17:33,Converted
-475,SMS,2024-01-08 11:19:40,Clicked
-475,SMS,2023-12-07 16:27:46,Unsubscribed
-477,Direct Mail,2024-03-01 23:39:28,Clicked
-477,Direct Mail,2023-12-30 04:18:49,Clicked
-479,Social Media,2023-12-25 20:03:49,Opened
-480,Email,2024-03-02 10:44:52,Unsubscribed
-481,Email,2024-03-04 09:57:32,Opened
-481,SMS,2023-09-28 09:50:25,Clicked
-481,SMS,2023-10-15 19:04:41,Opened
-483,Direct Mail,2024-03-29 19:16:38,Unsubscribed
-483,Email,2024-02-12 18:06:22,Unsubscribed
-485,Social Media,2024-02-28 04:44:31,Converted
-485,Social Media,2023-08-06 06:57:14,Opened
-486,Social Media,2024-03-29 06:13:20,Unsubscribed
-487,Social Media,2023-05-30 08:07:39,Converted
-488,Direct Mail,2024-02-24 11:17:30,Unsubscribed
-489,SMS,2023-10-19 06:41:00,Converted
-489,Social Media,2023-06-29 20:40:23,Unsubscribed
-489,Direct Mail,2024-05-11 23:00:39,Converted
-490,Social Media,2023-12-26 20:39:47,Converted
-490,Direct Mail,2023-05-22 16:13:57,Clicked
-490,Social Media,2024-02-19 08:04:17,Opened
-491,Email,2024-03-06 05:39:48,Clicked
-493,Direct Mail,2023-07-27 14:24:10,Clicked
-493,Social Media,2023-10-02 20:39:05,Converted
-493,Email,2023-06-26 02:03:28,Opened
-494,SMS,2024-02-16 17:36:10,Unsubscribed
-494,Direct Mail,2023-05-13 18:45:16,Unsubscribed
-494,Social Media,2023-08-23 22:57:34,Unsubscribed
-495,Social Media,2023-12-11 16:51:45,Converted
-497,SMS,2023-11-08 18:10:10,Opened
-497,Direct Mail,2024-02-04 03:02:54,Converted
-497,Email,2023-09-22 06:28:50,Clicked
-498,Email,2023-09-23 19:21:17,Converted
-498,Email,2023-07-19 07:35:28,Converted
-500,Direct Mail,2024-05-11 20:55:29,Opened
-500,Social Media,2024-01-04 14:35:33,Unsubscribed
-502,Email,2023-12-15 22:30:32,Clicked
-504,SMS,2024-03-01 03:46:03,Converted
-504,Social Media,2024-04-08 05:18:35,Converted
-506,SMS,2024-04-29 18:17:05,Clicked
-507,SMS,2023-10-28 00:00:09,Converted
-508,Email,2023-05-29 02:26:13,Opened
-508,Social Media,2023-05-21 04:41:22,Unsubscribed
-510,Social Media,2024-04-04 03:19:15,Converted
-510,SMS,2023-12-26 17:41:35,Opened
-511,Email,2024-04-24 09:28:31,Unsubscribed
-511,Social Media,2023-10-05 17:24:26,Unsubscribed
-512,Direct Mail,2023-09-14 00:51:03,Opened
-513,Email,2023-09-14 14:15:20,Converted
-513,Social Media,2023-06-18 08:28:00,Opened
-514,Direct Mail,2024-02-13 08:55:06,Opened
-514,Direct Mail,2024-01-26 18:01:17,Clicked
-516,Direct Mail,2024-03-27 00:41:50,Converted
-516,SMS,2023-08-03 11:49:42,Converted
-516,Social Media,2024-04-04 08:05:38,Opened
-517,Email,2023-06-19 23:10:53,Opened
-519,Direct Mail,2024-01-29 03:48:12,Converted
-519,SMS,2023-07-27 08:49:42,Opened
-519,Direct Mail,2023-06-19 11:55:28,Opened
-520,Social Media,2023-10-13 03:00:05,Converted
-522,Email,2024-02-03 09:55:42,Clicked
-522,Email,2023-10-06 20:38:44,Opened
-522,Direct Mail,2023-10-05 16:10:18,Unsubscribed
-523,SMS,2024-03-11 17:51:50,Clicked
-523,SMS,2024-01-14 22:09:28,Unsubscribed
-523,Social Media,2024-02-04 23:05:17,Unsubscribed
-524,Email,2024-02-06 10:11:58,Unsubscribed
-524,Email,2023-11-09 13:49:18,Opened
-524,Social Media,2023-07-24 01:33:16,Converted
-525,Social Media,2023-09-06 08:03:49,Converted
-525,Social Media,2024-04-24 23:57:03,Opened
-527,Email,2023-10-20 00:22:20,Converted
-527,Email,2024-02-26 00:20:13,Clicked
-528,SMS,2023-11-22 18:06:06,Converted
-528,Social Media,2024-03-04 09:59:34,Converted
-529,Social Media,2024-04-21 11:52:29,Opened
-529,Direct Mail,2023-05-26 08:48:36,Unsubscribed
-531,Email,2023-11-10 14:11:11,Converted
-531,SMS,2023-10-19 01:32:11,Unsubscribed
-531,Email,2023-09-22 03:10:55,Opened
-532,Direct Mail,2023-07-18 00:34:01,Opened
-533,Social Media,2024-05-11 06:41:48,Converted
-533,Email,2023-12-09 03:20:50,Clicked
-533,SMS,2023-06-26 07:11:37,Unsubscribed
-535,Social Media,2024-04-10 19:07:25,Converted
-535,Social Media,2023-11-02 18:55:00,Opened
-536,Direct Mail,2023-06-15 23:09:02,Converted
-537,Direct Mail,2023-09-04 11:21:18,Clicked
-537,Email,2024-05-02 10:07:16,Opened
-537,Social Media,2023-09-19 16:47:52,Converted
-538,SMS,2023-11-04 14:00:49,Opened
-538,Social Media,2023-06-18 22:42:05,Converted
-539,SMS,2023-07-02 00:41:46,Unsubscribed
-540,Direct Mail,2024-03-09 17:08:24,Converted
-540,SMS,2023-10-05 09:33:54,Unsubscribed
-541,Social Media,2023-09-02 01:52:58,Unsubscribed
-541,SMS,2023-07-17 06:20:52,Unsubscribed
-542,Direct Mail,2023-11-24 01:46:30,Clicked
-542,Direct Mail,2023-05-17 05:30:20,Clicked
-542,Social Media,2023-10-12 13:49:42,Unsubscribed
-543,Direct Mail,2024-03-13 22:01:31,Unsubscribed
-545,Direct Mail,2023-07-08 00:44:52,Opened
-545,Social Media,2024-03-01 18:47:53,Unsubscribed
-546,Email,2023-09-15 19:02:28,Opened
-547,Direct Mail,2023-08-27 02:02:54,Unsubscribed
-547,Direct Mail,2023-09-18 22:33:00,Clicked
-548,Direct Mail,2023-05-30 11:07:10,Unsubscribed
-549,Email,2023-05-21 19:14:32,Clicked
-550,Social Media,2023-08-24 16:32:40,Converted
-551,Email,2024-04-20 15:26:35,Converted
-551,Direct Mail,2024-01-10 12:32:45,Clicked
-552,Direct Mail,2023-09-12 03:50:53,Clicked
-553,Direct Mail,2023-06-25 10:09:27,Converted
-554,Email,2023-12-08 21:17:02,Unsubscribed
-555,Direct Mail,2023-12-30 12:05:11,Opened
-556,Social Media,2023-08-16 11:22:35,Converted
-556,Email,2024-02-23 19:51:47,Clicked
-559,SMS,2023-06-17 16:02:35,Converted
-559,SMS,2024-02-10 21:21:16,Opened
-560,Social Media,2024-01-09 09:46:22,Unsubscribed
-560,Direct Mail,2023-05-30 03:42:04,Unsubscribed
-561,SMS,2024-02-21 09:29:33,Unsubscribed
-561,Social Media,2024-02-12 21:00:00,Clicked
-561,Email,2024-01-04 02:15:56,Opened
-562,Social Media,2023-10-25 00:10:07,Opened
-562,Direct Mail,2024-03-02 16:01:16,Converted
-563,Social Media,2024-02-29 06:49:56,Clicked
-564,Social Media,2023-11-23 01:47:57,Converted
-567,Direct Mail,2024-02-18 11:02:17,Opened
-567,Social Media,2024-04-19 23:31:58,Opened
-567,Social Media,2023-06-16 15:57:02,Unsubscribed
-568,SMS,2023-05-30 06:42:34,Clicked
-568,Email,2023-06-01 19:40:38,Opened
-568,Direct Mail,2023-11-04 18:00:51,Opened
-569,Email,2024-02-07 18:29:12,Clicked
-569,Social Media,2023-11-10 15:05:15,Opened
-571,SMS,2024-04-28 06:22:07,Unsubscribed
-571,SMS,2023-08-10 07:14:09,Converted
-572,SMS,2023-12-14 21:52:39,Opened
-572,SMS,2024-01-10 13:46:18,Converted
-573,Direct Mail,2024-01-08 09:43:19,Clicked
-573,Direct Mail,2023-07-02 04:00:31,Unsubscribed
-574,Direct Mail,2023-06-03 20:59:25,Opened
-574,Social Media,2023-11-06 09:08:10,Unsubscribed
-574,Email,2023-10-14 00:06:21,Converted
-576,Social Media,2024-02-23 08:34:06,Unsubscribed
-576,SMS,2024-03-11 11:58:19,Unsubscribed
-576,Direct Mail,2023-11-28 12:01:54,Opened
-577,SMS,2024-02-06 06:00:21,Unsubscribed
-577,Social Media,2024-02-17 23:52:13,Clicked
-578,Social Media,2023-12-11 19:51:55,Clicked
-578,SMS,2023-07-28 14:34:17,Clicked
-578,Direct Mail,2024-04-20 12:08:23,Converted
-580,Email,2024-03-19 20:07:08,Unsubscribed
-581,SMS,2024-01-03 13:08:33,Opened
-581,Direct Mail,2023-07-03 00:13:54,Clicked
-581,SMS,2023-06-27 23:04:01,Converted
-582,SMS,2023-12-14 09:38:04,Clicked
-582,SMS,2023-12-06 19:07:47,Opened
-583,Social Media,2023-10-24 15:34:54,Clicked
-584,Direct Mail,2023-11-23 12:31:37,Unsubscribed
-584,Direct Mail,2023-05-15 04:22:32,Opened
-584,Social Media,2023-09-14 06:41:37,Unsubscribed
-586,Direct Mail,2023-06-24 16:12:19,Clicked
-586,Social Media,2024-03-20 18:38:18,Converted
-586,Email,2023-09-13 00:02:09,Converted
-588,Direct Mail,2024-03-25 02:45:40,Clicked
-589,Direct Mail,2023-12-18 13:26:49,Converted
-590,Social Media,2024-01-11 01:24:21,Opened
-590,Email,2023-08-26 01:26:03,Clicked
-590,Social Media,2023-06-13 19:36:12,Converted
-591,SMS,2023-06-28 04:56:03,Unsubscribed
-593,SMS,2024-04-12 02:58:05,Opened
-594,Direct Mail,2023-07-11 09:11:32,Unsubscribed
-594,Direct Mail,2023-05-21 22:37:36,Clicked
-594,Email,2023-06-26 00:15:39,Unsubscribed
-595,Email,2023-10-02 12:55:46,Unsubscribed
-596,Social Media,2023-06-12 21:27:02,Converted
-596,Direct Mail,2024-02-22 16:56:40,Converted
-597,Direct Mail,2023-08-26 06:59:43,Unsubscribed
-597,Email,2023-08-27 13:27:58,Clicked
-597,Email,2024-02-25 14:07:53,Converted
-598,Social Media,2023-05-29 21:22:47,Unsubscribed
-599,Social Media,2024-03-05 03:46:39,Opened
-600,SMS,2023-09-30 21:24:11,Converted
-601,Email,2024-04-10 17:36:08,Clicked
-601,Direct Mail,2023-06-29 15:42:28,Unsubscribed
-601,SMS,2024-02-02 01:28:50,Converted
-602,Email,2024-03-23 10:14:59,Clicked
-602,Social Media,2024-01-01 01:55:16,Clicked
-602,Email,2023-10-30 09:23:09,Clicked
-603,Social Media,2023-10-21 02:25:08,Opened
-603,Direct Mail,2023-09-23 12:33:30,Opened
-604,Email,2023-07-10 19:39:26,Opened
-604,Social Media,2023-11-21 18:52:55,Opened
-605,Social Media,2023-11-29 20:40:39,Converted
-608,SMS,2024-02-24 01:28:15,Opened
-609,Social Media,2023-06-27 16:55:24,Opened
-610,Social Media,2023-11-29 22:16:27,Unsubscribed
-610,Email,2024-04-16 19:06:05,Converted
-610,Direct Mail,2023-06-06 07:44:43,Clicked
-612,SMS,2023-07-26 20:59:54,Clicked
-612,SMS,2024-02-14 02:37:42,Unsubscribed
-613,Direct Mail,2023-08-30 07:24:02,Unsubscribed
-614,SMS,2023-12-23 13:27:10,Converted
-615,Social Media,2024-01-17 23:19:53,Converted
-615,Direct Mail,2023-06-29 10:57:03,Converted
-616,Social Media,2023-07-27 14:04:48,Clicked
-620,Social Media,2024-03-16 23:10:00,Converted
-620,Direct Mail,2023-06-22 11:59:13,Unsubscribed
-620,Direct Mail,2024-05-11 19:03:48,Clicked
-621,Email,2024-01-29 14:30:16,Unsubscribed
-622,Email,2023-08-09 14:33:36,Clicked
-622,SMS,2023-10-25 16:33:30,Clicked
-624,Email,2023-08-22 16:09:06,Converted
-626,SMS,2023-06-05 01:30:07,Opened
-626,Direct Mail,2024-02-23 03:58:45,Clicked
-626,Email,2023-10-17 20:39:31,Unsubscribed
-627,Email,2023-08-17 15:51:49,Converted
-627,Direct Mail,2024-04-30 12:03:55,Opened
-627,Email,2023-09-15 18:43:16,Clicked
-628,Social Media,2023-06-09 02:25:38,Clicked
-630,Direct Mail,2024-04-10 18:56:26,Clicked
-630,Social Media,2023-06-22 13:32:42,Converted
-631,SMS,2024-04-09 22:22:53,Unsubscribed
-631,SMS,2024-01-12 17:35:31,Unsubscribed
-632,SMS,2023-12-06 15:04:34,Opened
-632,Direct Mail,2023-08-08 19:44:38,Unsubscribed
-633,Social Media,2024-04-23 14:27:52,Unsubscribed
-633,Email,2023-12-21 02:05:31,Opened
-633,SMS,2023-07-01 08:34:15,Unsubscribed
-634,SMS,2023-11-22 16:36:54,Clicked
-634,Social Media,2024-01-04 11:45:42,Opened
-635,SMS,2024-03-26 17:07:40,Clicked
-636,Email,2023-12-04 07:23:31,Clicked
-637,Direct Mail,2024-03-19 00:25:41,Converted
-637,SMS,2023-11-23 02:33:39,Clicked
-638,Social Media,2023-11-11 11:56:25,Unsubscribed
-638,Direct Mail,2023-09-25 13:04:29,Clicked
-639,Social Media,2023-09-14 04:48:42,Clicked
-639,SMS,2024-02-06 05:05:56,Converted
-639,Email,2023-07-22 06:17:35,Converted
-640,Email,2024-03-19 14:02:15,Converted
-641,SMS,2023-05-30 01:21:31,Opened
-641,Direct Mail,2024-04-01 08:53:28,Opened
-642,Direct Mail,2023-09-27 00:51:34,Unsubscribed
-642,Social Media,2023-08-30 14:40:36,Clicked
-643,Social Media,2023-09-09 06:25:27,Converted
-644,Direct Mail,2024-04-18 03:21:32,Converted
-644,Direct Mail,2023-11-23 22:44:18,Unsubscribed
-644,Direct Mail,2023-08-02 07:53:55,Clicked
-646,SMS,2023-08-06 16:56:25,Opened
-646,Direct Mail,2024-05-09 21:07:17,Converted
-646,Email,2023-06-21 05:27:45,Opened
-647,SMS,2023-07-27 17:32:08,Unsubscribed
-647,Direct Mail,2024-03-29 07:40:51,Opened
-649,Direct Mail,2023-07-19 00:22:55,Unsubscribed
-649,SMS,2024-04-30 07:20:56,Converted
-650,Direct Mail,2023-10-08 05:00:42,Unsubscribed
-650,Direct Mail,2024-02-07 08:07:20,Converted
-651,Direct Mail,2023-12-27 06:22:36,Converted
-651,Email,2023-07-03 02:40:55,Clicked
-652,Social Media,2024-01-17 17:47:13,Clicked
-652,Email,2023-07-26 19:54:15,Opened
-652,Direct Mail,2024-03-21 02:44:09,Opened
-653,Email,2024-02-06 12:14:13,Opened
-653,Direct Mail,2023-07-17 13:55:25,Unsubscribed
-653,Social Media,2023-08-02 20:36:04,Opened
-654,Social Media,2023-09-14 23:21:13,Clicked
-656,Direct Mail,2024-04-21 13:21:28,Unsubscribed
-657,Direct Mail,2023-08-14 22:54:42,Unsubscribed
-657,Email,2024-04-04 19:38:28,Converted
-657,Email,2023-09-09 14:37:33,Unsubscribed
-658,SMS,2024-02-05 19:15:33,Opened
-659,Social Media,2023-06-14 21:20:33,Unsubscribed
-659,Direct Mail,2023-11-04 19:13:40,Clicked
-660,SMS,2024-04-23 09:08:18,Clicked
-661,SMS,2023-05-13 19:30:59,Opened
-662,Social Media,2023-12-27 00:00:36,Unsubscribed
-662,Email,2023-07-24 07:53:55,Converted
-663,SMS,2023-05-22 16:28:06,Unsubscribed
-663,Direct Mail,2023-05-20 21:14:47,Clicked
-663,Direct Mail,2024-02-12 07:51:33,Unsubscribed
-664,Email,2024-02-18 11:53:44,Converted
-664,Email,2023-09-10 00:09:31,Opened
-664,Email,2023-10-10 13:08:32,Converted
-665,Social Media,2024-03-03 07:40:09,Unsubscribed
-666,SMS,2023-09-01 06:21:36,Converted
-666,Social Media,2023-09-16 21:09:20,Converted
-667,Social Media,2024-03-28 04:39:38,Clicked
-669,Email,2023-07-01 06:13:36,Converted
-670,Social Media,2023-05-22 23:16:55,Clicked
-670,Social Media,2023-09-06 19:22:55,Clicked
-671,SMS,2024-04-03 04:11:01,Unsubscribed
-671,Social Media,2023-07-07 14:57:48,Opened
-671,Email,2023-05-16 21:13:51,Unsubscribed
-675,SMS,2023-08-26 13:44:46,Opened
-675,Email,2023-07-07 08:39:42,Clicked
-677,SMS,2024-04-02 08:56:18,Converted
-677,Direct Mail,2023-05-14 20:39:16,Clicked
-678,SMS,2023-12-14 18:26:33,Converted
-678,SMS,2023-10-18 03:48:15,Clicked
-678,SMS,2023-10-09 01:43:17,Unsubscribed
-681,SMS,2024-04-04 20:07:36,Clicked
-681,Social Media,2023-08-20 02:18:19,Opened
-682,Direct Mail,2023-08-27 06:42:11,Opened
-682,Email,2023-06-03 07:05:15,Converted
-685,SMS,2024-03-15 07:22:12,Unsubscribed
-685,Email,2023-08-10 04:31:57,Unsubscribed
-685,Email,2023-11-05 00:41:18,Unsubscribed
-686,SMS,2024-04-30 19:53:21,Opened
-686,SMS,2024-03-06 04:25:30,Clicked
-686,SMS,2023-07-28 06:48:35,Clicked
-688,Direct Mail,2023-10-16 18:59:14,Unsubscribed
-690,Social Media,2024-05-10 06:46:57,Converted
-690,Email,2023-08-27 03:08:09,Converted
-691,Email,2023-07-03 03:49:18,Unsubscribed
-692,Email,2023-09-21 19:03:32,Unsubscribed
-694,Direct Mail,2024-03-17 17:00:44,Opened
-694,Email,2023-06-10 17:19:24,Clicked
-694,Email,2024-05-04 23:29:58,Clicked
-695,Email,2024-04-13 04:59:48,Opened
-696,Email,2024-02-19 10:07:15,Converted
-696,Social Media,2023-11-26 02:28:11,Unsubscribed
-697,Direct Mail,2023-12-16 20:09:37,Converted
-697,Email,2024-04-06 19:11:10,Clicked
-698,Social Media,2023-09-11 19:50:11,Opened
-698,Direct Mail,2023-06-14 08:13:28,Clicked
-698,SMS,2024-02-26 13:15:38,Converted
-699,SMS,2023-12-01 21:56:51,Converted
-699,Email,2023-12-22 18:15:47,Unsubscribed
-699,Direct Mail,2023-11-19 09:54:28,Opened
-700,Direct Mail,2024-03-28 19:11:17,Converted
-700,Email,2023-08-25 01:17:00,Clicked
-700,Social Media,2023-11-08 14:50:31,Converted
-701,Direct Mail,2024-04-28 05:32:54,Opened
-702,SMS,2023-10-31 00:47:59,Clicked
-702,SMS,2023-08-11 09:43:44,Converted
-702,SMS,2023-07-03 21:33:16,Unsubscribed
-703,Direct Mail,2024-03-29 22:32:15,Opened
-703,Email,2024-03-10 16:43:52,Opened
-705,Email,2024-03-02 03:07:34,Converted
-705,Email,2023-05-16 04:42:12,Opened
-705,Direct Mail,2024-01-31 20:56:09,Unsubscribed
-706,Social Media,2024-04-26 00:11:19,Clicked
-706,Social Media,2024-04-27 18:15:29,Unsubscribed
-708,Direct Mail,2024-02-25 15:43:56,Opened
-708,SMS,2023-09-22 22:33:42,Unsubscribed
-708,Direct Mail,2023-10-23 23:33:22,Converted
-709,Social Media,2023-07-16 18:43:05,Converted
-709,Email,2023-11-04 01:14:18,Clicked
-709,Social Media,2023-05-29 05:03:45,Clicked
-710,Direct Mail,2023-06-28 02:17:20,Converted
-710,Email,2024-02-10 21:25:21,Unsubscribed
-711,Direct Mail,2023-11-29 13:48:22,Converted
-711,Direct Mail,2024-03-11 09:45:36,Converted
-712,Direct Mail,2024-04-09 22:36:00,Opened
-712,Email,2023-09-26 19:03:12,Opened
-712,Email,2024-03-18 06:44:03,Unsubscribed
-715,SMS,2023-11-18 14:38:28,Opened
-718,Direct Mail,2023-08-06 17:59:32,Converted
-718,Email,2023-08-11 21:29:40,Opened
-718,Direct Mail,2024-02-18 16:59:14,Opened
-719,Email,2023-10-23 20:37:39,Opened
-720,Social Media,2023-06-24 16:53:58,Clicked
-721,Email,2024-02-15 14:29:47,Opened
-723,Email,2023-07-03 11:18:59,Unsubscribed
-723,SMS,2024-03-16 05:27:43,Unsubscribed
-724,SMS,2023-05-20 23:11:58,Converted
-725,Direct Mail,2023-09-03 12:14:08,Clicked
-727,SMS,2024-02-04 14:31:49,Clicked
-727,Email,2023-12-03 17:00:54,Opened
-727,SMS,2023-11-03 11:18:07,Clicked
-728,Email,2024-04-28 00:59:58,Clicked
-728,Social Media,2024-03-30 21:28:26,Clicked
-729,Social Media,2024-05-02 01:48:24,Unsubscribed
-729,Social Media,2023-09-22 06:11:33,Unsubscribed
-729,SMS,2023-12-06 11:00:07,Clicked
-730,SMS,2023-06-04 17:13:40,Opened
-730,Email,2023-10-07 11:45:57,Unsubscribed
-730,Email,2023-10-25 06:31:52,Clicked
-732,Email,2023-12-19 20:31:49,Opened
-732,SMS,2023-11-28 02:54:16,Converted
-734,SMS,2023-10-14 20:11:20,Opened
-735,Direct Mail,2023-09-18 19:18:28,Unsubscribed
-735,Direct Mail,2023-05-27 13:34:50,Unsubscribed
-737,Email,2024-04-13 00:25:34,Clicked
-737,Email,2024-02-20 09:11:48,Clicked
-740,Social Media,2023-07-10 15:38:07,Converted
-741,Email,2024-04-25 09:54:50,Clicked
-741,Social Media,2023-06-25 16:27:08,Clicked
-741,SMS,2023-09-26 17:22:04,Opened
-742,Email,2023-08-24 06:21:09,Converted
-742,Social Media,2024-02-10 12:33:16,Converted
-743,Social Media,2023-09-13 17:45:53,Converted
-743,Email,2023-10-02 19:26:29,Unsubscribed
-743,SMS,2024-01-10 03:31:10,Converted
-744,Social Media,2024-01-05 14:06:48,Converted
-744,SMS,2023-08-10 10:57:05,Unsubscribed
-745,Email,2024-04-16 23:28:03,Converted
-747,SMS,2024-01-02 10:57:39,Unsubscribed
-747,SMS,2023-06-17 14:38:02,Unsubscribed
-748,Social Media,2023-06-11 03:19:24,Clicked
-748,Social Media,2023-06-26 14:42:15,Unsubscribed
-751,Direct Mail,2023-08-15 19:34:21,Opened
-751,SMS,2023-09-01 10:53:13,Opened
-751,Direct Mail,2024-02-12 09:36:59,Opened
-754,SMS,2023-09-06 15:32:27,Opened
-754,Email,2024-01-22 08:34:34,Converted
-755,Social Media,2023-12-01 14:01:49,Converted
-755,Social Media,2024-01-20 16:41:11,Clicked
-755,Direct Mail,2023-12-01 06:40:39,Unsubscribed
-756,Direct Mail,2023-05-23 20:19:28,Unsubscribed
-756,Email,2024-03-24 06:04:16,Unsubscribed
-757,Email,2023-09-05 10:47:55,Unsubscribed
-757,Email,2024-03-14 01:35:07,Opened
-758,Direct Mail,2023-09-05 23:08:01,Opened
-758,SMS,2023-11-20 05:23:39,Converted
-758,Social Media,2023-07-10 03:25:41,Opened
-761,SMS,2023-07-21 03:31:27,Unsubscribed
-761,SMS,2023-09-29 20:41:01,Opened
-763,Email,2024-01-18 23:18:01,Opened
-763,Direct Mail,2023-06-03 04:37:26,Opened
-763,SMS,2023-10-16 20:17:16,Clicked
-764,Email,2024-04-28 08:41:33,Converted
-764,Direct Mail,2023-10-05 08:01:59,Unsubscribed
-765,Email,2023-12-12 16:23:08,Clicked
-766,Social Media,2023-09-11 07:29:04,Opened
-766,Email,2024-01-14 10:30:13,Converted
-767,Direct Mail,2023-12-10 17:30:50,Opened
-768,Direct Mail,2024-03-08 21:23:16,Opened
-768,Direct Mail,2023-11-22 21:06:37,Unsubscribed
-768,Email,2024-02-16 12:34:16,Unsubscribed
-769,SMS,2024-03-28 09:40:52,Unsubscribed
-770,Direct Mail,2023-07-19 19:34:46,Clicked
-771,Social Media,2023-06-06 18:54:15,Unsubscribed
-772,Email,2024-03-10 06:54:57,Opened
-774,Social Media,2023-12-24 00:09:32,Clicked
-774,Direct Mail,2024-03-11 21:17:21,Unsubscribed
-775,Email,2023-09-29 21:25:10,Unsubscribed
-775,Email,2024-02-24 09:11:59,Clicked
-776,Direct Mail,2024-03-08 23:49:06,Converted
-776,Direct Mail,2023-09-10 21:01:19,Converted
-777,Social Media,2023-11-26 04:47:26,Unsubscribed
-777,Email,2023-06-17 12:09:28,Converted
-778,SMS,2024-02-08 05:03:26,Clicked
-778,Direct Mail,2024-01-19 06:22:09,Clicked
-781,SMS,2023-08-08 08:36:22,Converted
-781,Social Media,2023-08-18 23:35:03,Opened
-781,Email,2023-08-23 06:32:32,Clicked
-783,Direct Mail,2023-12-06 02:59:11,Unsubscribed
-783,Email,2023-12-25 07:58:15,Opened
-785,Email,2023-10-30 20:07:04,Converted
-785,Email,2023-09-03 01:19:01,Converted
-785,SMS,2023-06-21 02:36:30,Clicked
-786,Email,2023-07-24 06:45:10,Clicked
-787,Social Media,2023-10-29 20:36:52,Opened
-787,Direct Mail,2024-04-21 12:13:15,Clicked
-787,Social Media,2023-05-29 16:29:40,Unsubscribed
-788,SMS,2024-04-08 16:49:46,Clicked
-790,SMS,2023-09-09 05:42:34,Clicked
-791,Email,2023-08-28 06:48:11,Opened
-791,Email,2023-12-27 23:00:34,Opened
-792,SMS,2024-02-04 13:08:21,Clicked
-792,Social Media,2024-03-19 06:28:11,Clicked
-793,Direct Mail,2023-12-12 13:50:11,Clicked
-793,Social Media,2023-12-09 23:10:02,Unsubscribed
-794,Social Media,2023-07-22 20:10:31,Converted
-794,Social Media,2023-10-27 21:15:13,Unsubscribed
-794,Direct Mail,2023-11-12 18:49:31,Clicked
-795,Social Media,2024-01-11 23:05:19,Opened
-795,SMS,2024-01-05 16:01:36,Converted
-795,SMS,2024-03-04 18:13:31,Opened
-796,Social Media,2023-05-28 06:13:05,Clicked
-796,Email,2024-03-22 18:00:58,Opened
-796,Email,2023-07-26 04:31:09,Converted
-797,Direct Mail,2023-10-24 05:40:30,Clicked
-797,SMS,2023-10-27 14:25:17,Unsubscribed
-797,Social Media,2023-05-27 02:54:30,Clicked
-798,Email,2023-10-26 02:00:35,Clicked
-798,Email,2023-05-22 22:58:03,Converted
-798,Email,2024-02-20 00:08:57,Opened
-799,Email,2024-05-11 14:54:56,Unsubscribed
-799,Social Media,2024-03-21 10:34:01,Converted
-799,SMS,2023-05-19 07:38:15,Opened
-800,Direct Mail,2023-11-01 09:13:24,Unsubscribed
-801,Social Media,2023-11-09 06:48:17,Clicked
-801,SMS,2024-03-27 09:20:57,Clicked
-802,Direct Mail,2023-10-28 18:23:10,Unsubscribed
-802,Social Media,2023-08-19 19:43:22,Converted
-802,Email,2023-10-05 19:16:50,Unsubscribed
-803,SMS,2023-10-09 10:29:43,Converted
-803,Social Media,2023-12-08 10:43:13,Clicked
-804,Direct Mail,2024-03-13 01:13:25,Unsubscribed
-804,Social Media,2024-01-22 21:32:37,Converted
-805,Social Media,2023-07-12 11:47:20,Clicked
-806,SMS,2024-04-05 15:37:04,Unsubscribed
-806,Direct Mail,2023-10-19 17:36:19,Converted
-807,SMS,2024-05-05 09:37:43,Unsubscribed
-808,SMS,2024-01-10 22:25:56,Opened
-809,Social Media,2024-03-14 15:19:10,Converted
-810,Social Media,2023-12-20 22:28:20,Unsubscribed
-810,SMS,2023-12-09 03:38:51,Converted
-810,Email,2023-12-22 19:53:38,Clicked
-811,Email,2023-08-21 13:00:55,Opened
-813,Direct Mail,2024-01-09 00:51:53,Clicked
-813,SMS,2024-03-22 06:31:11,Converted
-813,Email,2023-06-18 12:03:08,Unsubscribed
-814,SMS,2023-06-01 00:58:34,Converted
-814,Email,2023-08-09 17:01:18,Opened
-814,Social Media,2024-03-23 08:20:54,Opened
-815,Direct Mail,2024-03-12 13:17:45,Unsubscribed
-815,SMS,2023-11-30 15:44:08,Unsubscribed
-815,Email,2024-03-25 17:05:03,Converted
-817,Social Media,2023-12-10 18:00:01,Clicked
-817,Social Media,2024-01-23 16:00:40,Opened
-818,Social Media,2024-03-26 09:05:52,Clicked
-818,SMS,2023-08-25 01:37:33,Opened
-818,SMS,2023-06-27 08:17:21,Clicked
-820,Social Media,2024-04-03 14:35:02,Converted
-820,Direct Mail,2023-11-02 07:39:58,Converted
-823,Social Media,2023-11-01 01:33:07,Clicked
-823,SMS,2023-10-19 15:04:00,Unsubscribed
-823,Direct Mail,2024-03-18 10:06:48,Opened
-824,Direct Mail,2023-10-23 00:25:53,Unsubscribed
-825,Social Media,2024-02-20 13:52:48,Opened
-826,SMS,2023-10-31 05:17:45,Clicked
-827,Social Media,2023-09-16 06:16:43,Converted
-827,Social Media,2023-06-18 13:58:22,Converted
-830,Social Media,2023-09-24 20:58:24,Unsubscribed
-834,SMS,2024-01-27 02:49:36,Opened
-834,Email,2024-01-16 18:14:15,Clicked
-836,SMS,2024-03-27 10:52:59,Converted
-836,SMS,2023-11-23 17:10:46,Converted
-836,Social Media,2023-11-17 01:07:14,Opened
-837,Social Media,2024-01-07 21:44:35,Opened
-837,Email,2024-01-07 19:49:06,Converted
-837,Email,2024-04-02 21:59:38,Clicked
-838,Social Media,2023-09-09 13:27:36,Opened
-839,SMS,2023-12-18 11:50:56,Opened
-839,Social Media,2023-09-13 23:06:08,Clicked
-841,Social Media,2023-07-13 09:36:41,Converted
-841,SMS,2023-05-25 03:41:44,Unsubscribed
-841,SMS,2024-05-12 13:20:02,Clicked
-842,SMS,2023-05-23 23:09:50,Unsubscribed
-842,Direct Mail,2024-01-18 22:17:19,Opened
-842,Direct Mail,2023-12-05 06:33:31,Converted
-843,Direct Mail,2024-04-20 02:31:07,Converted
-843,Social Media,2024-02-23 06:46:14,Converted
-844,SMS,2023-10-04 19:28:11,Unsubscribed
-845,Email,2024-01-10 01:05:42,Converted
-845,Direct Mail,2024-04-20 20:13:24,Unsubscribed
-845,Direct Mail,2024-01-28 10:02:46,Opened
-846,Direct Mail,2023-11-03 15:19:21,Opened
-848,SMS,2024-04-27 09:25:07,Unsubscribed
-849,Email,2024-04-17 16:35:43,Unsubscribed
-849,Email,2024-03-28 07:10:25,Clicked
-849,SMS,2024-03-19 13:00:24,Clicked
-850,SMS,2024-03-19 09:53:13,Unsubscribed
-850,Email,2023-07-13 18:23:50,Unsubscribed
-850,Direct Mail,2024-01-06 18:37:13,Converted
-851,Email,2023-10-14 14:08:46,Opened
-851,SMS,2024-01-27 11:04:26,Clicked
-851,Direct Mail,2023-08-19 15:47:46,Clicked
-853,Direct Mail,2023-05-14 06:04:07,Clicked
-853,Social Media,2023-07-28 14:27:58,Clicked
-853,SMS,2023-11-13 18:14:35,Clicked
-854,Social Media,2024-01-27 09:10:26,Converted
-855,Direct Mail,2024-01-30 06:20:00,Unsubscribed
-856,Email,2024-02-14 12:57:28,Opened
-856,SMS,2023-12-31 20:41:00,Clicked
-856,SMS,2024-05-10 21:30:13,Clicked
-857,Email,2023-06-06 18:55:49,Converted
-857,Social Media,2024-02-06 03:46:40,Opened
-857,SMS,2024-01-04 12:13:22,Opened
-858,Direct Mail,2024-03-20 10:52:57,Opened
-860,Social Media,2024-03-23 10:21:57,Opened
-862,Direct Mail,2024-03-30 13:27:16,Clicked
-864,Social Media,2023-12-07 21:22:01,Converted
-865,Direct Mail,2024-05-11 10:58:34,Unsubscribed
-865,Direct Mail,2024-03-25 10:21:58,Opened
-867,SMS,2023-05-31 09:20:15,Opened
-867,SMS,2023-11-14 21:13:35,Opened
-868,Direct Mail,2023-10-16 03:58:44,Opened
-869,Social Media,2024-03-12 07:15:32,Opened
-869,SMS,2023-11-26 02:07:14,Unsubscribed
-869,SMS,2023-06-30 04:31:17,Converted
-870,SMS,2023-10-16 18:21:51,Clicked
-870,Email,2023-10-06 19:06:40,Converted
-870,Social Media,2023-10-18 03:30:17,Clicked
-871,Email,2024-04-09 19:45:14,Converted
-871,Email,2023-06-09 07:07:07,Opened
-872,Social Media,2023-07-19 19:26:24,Unsubscribed
-874,SMS,2024-04-18 03:35:29,Unsubscribed
-876,SMS,2023-06-23 23:42:12,Opened
-877,Social Media,2024-02-06 06:24:23,Opened
-880,SMS,2023-05-23 22:23:29,Converted
-882,Social Media,2024-04-02 03:26:18,Converted
-882,Social Media,2024-03-13 00:04:04,Unsubscribed
-883,Email,2024-05-01 05:05:23,Converted
-883,Direct Mail,2023-08-17 17:58:26,Opened
-884,Social Media,2023-12-12 07:11:12,Opened
-884,Email,2023-05-16 13:10:16,Clicked
-884,Email,2024-04-03 03:53:37,Clicked
-885,Email,2023-06-02 16:32:02,Clicked
-887,Direct Mail,2023-05-20 06:50:51,Opened
-887,Email,2023-05-26 12:51:03,Unsubscribed
-888,SMS,2024-04-27 09:19:40,Opened
-888,Direct Mail,2024-03-30 16:32:46,Clicked
-890,Social Media,2023-08-07 03:50:52,Clicked
-891,Social Media,2023-11-01 18:44:58,Clicked
-892,Social Media,2024-03-11 03:40:39,Unsubscribed
-892,Direct Mail,2023-09-13 19:56:51,Opened
-892,SMS,2023-05-19 18:58:10,Unsubscribed
-894,SMS,2024-01-22 14:40:38,Unsubscribed
-894,Email,2024-05-06 03:38:40,Opened
-899,Social Media,2023-10-28 18:44:45,Opened
-900,Social Media,2023-09-16 19:29:06,Opened
-900,Social Media,2024-01-09 16:25:37,Converted
-901,Email,2023-06-22 04:00:59,Unsubscribed
-901,Email,2023-05-25 21:22:09,Opened
-901,Social Media,2023-12-16 10:30:55,Converted
-902,Direct Mail,2024-01-02 06:59:46,Unsubscribed
-904,Social Media,2024-04-02 09:33:35,Clicked
-905,Email,2024-01-03 22:45:59,Unsubscribed
-905,Direct Mail,2024-02-17 12:24:08,Clicked
-905,Direct Mail,2024-01-17 02:50:40,Clicked
-907,Email,2023-05-13 17:17:53,Opened
-908,Social Media,2023-12-24 09:28:40,Unsubscribed
-909,Social Media,2023-06-11 19:55:04,Clicked
-909,Social Media,2023-12-01 14:49:47,Clicked
-909,SMS,2023-08-15 09:39:59,Unsubscribed
-914,Social Media,2024-04-27 11:23:42,Clicked
-914,Email,2024-03-11 18:32:59,Opened
-919,SMS,2023-09-28 14:15:28,Clicked
-920,Email,2023-06-05 11:47:23,Clicked
-921,Social Media,2023-10-11 11:07:45,Converted
-921,Email,2023-08-16 08:43:58,Clicked
-922,Social Media,2023-09-27 22:45:44,Converted
-922,Email,2024-01-18 08:00:58,Clicked
-923,Direct Mail,2023-10-04 10:12:36,Opened
-923,Social Media,2023-09-12 19:04:23,Opened
-926,SMS,2024-02-15 20:42:19,Unsubscribed
-926,Email,2023-12-07 03:46:40,Unsubscribed
-926,Social Media,2023-11-27 01:34:14,Converted
-927,Direct Mail,2024-01-15 05:51:31,Unsubscribed
-927,Direct Mail,2024-02-27 03:18:11,Unsubscribed
-927,Social Media,2023-06-08 21:13:47,Clicked
-928,Direct Mail,2023-08-19 09:49:36,Clicked
-928,Social Media,2024-02-26 12:28:25,Opened
-929,Direct Mail,2024-03-08 02:10:00,Converted
-930,Email,2024-03-16 23:19:43,Converted
-933,Email,2024-03-15 17:50:40,Clicked
-933,SMS,2023-12-06 23:54:18,Clicked
-934,SMS,2023-10-26 00:58:27,Unsubscribed
-935,Direct Mail,2024-02-10 13:25:10,Unsubscribed
-935,SMS,2023-09-04 17:24:32,Opened
-936,Direct Mail,2023-09-10 23:10:15,Opened
-937,SMS,2024-02-15 06:47:32,Converted
-937,Direct Mail,2023-08-11 14:58:20,Unsubscribed
-938,Social Media,2023-06-17 12:02:09,Unsubscribed
-939,Email,2023-06-26 10:17:24,Opened
-939,Direct Mail,2023-08-19 01:16:32,Clicked
-940,Direct Mail,2024-01-31 13:58:16,Opened
-940,Direct Mail,2023-11-14 09:59:22,Unsubscribed
-940,Direct Mail,2024-01-09 01:45:34,Unsubscribed
-941,Social Media,2023-06-20 11:15:20,Converted
-942,Email,2023-08-17 20:28:34,Unsubscribed
-943,SMS,2023-10-17 11:26:18,Clicked
-943,SMS,2024-01-17 02:31:18,Opened
-944,SMS,2023-06-11 11:04:03,Clicked
-944,Social Media,2023-12-10 17:15:50,Unsubscribed
-944,SMS,2023-10-13 23:44:02,Converted
-946,Email,2024-01-08 03:35:41,Converted
-947,Direct Mail,2024-03-04 19:32:44,Unsubscribed
-947,Social Media,2024-03-14 08:03:04,Unsubscribed
-947,Social Media,2023-10-20 00:25:43,Converted
-948,Email,2023-09-07 23:38:08,Opened
-948,Direct Mail,2023-09-04 01:08:35,Opened
-949,Social Media,2023-11-04 16:30:39,Clicked
-949,Direct Mail,2023-12-27 08:32:45,Opened
-949,SMS,2023-12-11 15:03:37,Converted
-950,SMS,2023-07-19 18:10:39,Converted
-950,SMS,2023-06-30 05:31:28,Unsubscribed
-950,Email,2023-09-19 03:49:51,Opened
-951,Email,2024-04-23 19:59:14,Converted
-951,Social Media,2023-05-16 11:18:42,Converted
-951,Email,2023-12-09 11:35:59,Opened
-952,Social Media,2023-06-09 16:54:27,Unsubscribed
-952,Email,2023-11-25 22:39:53,Converted
-952,Email,2023-11-18 02:43:03,Unsubscribed
-953,Email,2024-03-15 11:24:28,Clicked
-954,Direct Mail,2024-02-03 17:49:30,Clicked
-954,Email,2024-02-27 19:31:50,Opened
-954,Direct Mail,2024-03-21 23:58:32,Unsubscribed
-955,Social Media,2024-01-29 20:25:12,Unsubscribed
-955,Direct Mail,2023-09-24 13:34:54,Converted
-955,SMS,2023-07-09 00:25:38,Converted
-957,SMS,2023-08-24 23:23:06,Unsubscribed
-957,Direct Mail,2023-05-29 14:43:27,Converted
-958,Email,2023-11-18 10:49:05,Converted
-958,Social Media,2023-06-13 00:42:09,Converted
-960,Social Media,2023-09-11 03:28:54,Unsubscribed
-961,Email,2024-03-07 09:28:40,Clicked
-961,SMS,2023-10-11 04:54:51,Converted
-962,Social Media,2023-10-26 05:47:13,Unsubscribed
-966,Direct Mail,2023-06-19 21:57:30,Opened
-967,Direct Mail,2024-03-17 06:29:22,Opened
-968,Email,2023-05-18 02:31:32,Opened
-969,Direct Mail,2023-09-26 10:27:40,Clicked
-970,SMS,2024-05-11 01:40:17,Opened
-970,Email,2023-05-29 11:17:44,Unsubscribed
-971,SMS,2024-02-10 08:41:23,Unsubscribed
-972,Email,2023-12-29 04:00:43,Converted
-973,Social Media,2024-02-06 08:03:37,Converted
-973,Direct Mail,2024-01-14 08:10:02,Unsubscribed
-973,Social Media,2024-03-05 21:14:26,Opened
-974,Direct Mail,2024-01-25 10:30:51,Opened
-974,Social Media,2023-12-22 17:01:34,Converted
-974,Email,2023-06-18 11:11:00,Converted
-976,Social Media,2023-09-09 16:58:20,Unsubscribed
-976,Email,2023-08-30 19:34:37,Converted
-977,Email,2023-10-04 05:36:26,Clicked
-978,Social Media,2024-05-04 23:12:48,Converted
-978,Direct Mail,2024-02-15 08:32:19,Opened
-979,Direct Mail,2023-09-16 14:48:16,Converted
-980,Direct Mail,2023-12-04 01:37:48,Clicked
-980,Direct Mail,2023-06-18 20:23:47,Clicked
-980,SMS,2023-09-20 06:54:44,Clicked
-981,Direct Mail,2023-09-19 06:56:20,Unsubscribed
-982,SMS,2023-11-13 08:31:09,Converted
-982,Direct Mail,2024-02-18 23:05:41,Converted
-983,Direct Mail,2024-01-25 02:27:26,Opened
-983,SMS,2023-11-23 10:40:33,Converted
-984,Social Media,2023-07-29 03:26:16,Unsubscribed
-985,SMS,2023-09-27 17:58:57,Unsubscribed
-987,Email,2024-02-19 08:50:34,Clicked
-987,Email,2024-05-03 17:37:36,Clicked
-987,Direct Mail,2024-04-12 06:54:52,Opened
-988,Social Media,2023-11-16 14:31:53,Clicked
-988,SMS,2023-08-04 08:47:21,Clicked
-990,Direct Mail,2023-05-14 08:12:27,Opened
-990,SMS,2023-07-24 22:31:22,Converted
-991,Social Media,2024-01-30 05:08:17,Converted
-991,Email,2023-06-13 00:05:38,Unsubscribed
-992,SMS,2023-11-30 19:02:29,Converted
-992,SMS,2023-11-30 17:34:32,Converted
-993,Social Media,2023-06-15 12:00:29,Converted
-993,Email,2024-04-26 21:50:24,Converted
-994,SMS,2023-06-12 20:25:36,Opened
-995,SMS,2023-06-01 03:34:02,Opened
-995,Email,2023-10-22 23:19:23,Opened
-996,Direct Mail,2023-06-28 07:51:55,Opened
-998,Social Media,2023-11-02 03:05:14,Converted
-998,Direct Mail,2023-10-08 13:59:32,Unsubscribed
-1000,SMS,2023-06-16 10:46:35,Converted
+1,Social Media,2024-04-25 01:55:07,Unsubscribed
+1,Email,2023-11-08 12:12:46,Opened
+1,SMS,2023-09-09 12:56:33,Opened
+3,Direct Mail,2024-05-08 00:27:10,Converted
+3,Email,2023-08-23 11:52:20,Unsubscribed
+3,Social Media,2024-02-22 10:37:43,Unsubscribed
+5,Email,2023-07-09 10:43:23,Unsubscribed
+6,Social Media,2023-06-21 22:51:52,Clicked
+7,Direct Mail,2023-11-24 19:10:50,Unsubscribed
+7,SMS,2023-10-18 11:37:01,Opened
+9,Social Media,2023-11-05 16:49:39,Unsubscribed
+10,Social Media,2024-03-14 07:02:21,Converted
+10,SMS,2024-01-01 01:20:11,Clicked
+12,Direct Mail,2023-12-03 11:00:54,Opened
+16,Social Media,2023-05-29 06:17:15,Converted
+17,SMS,2023-08-15 20:30:36,Converted
+17,Direct Mail,2024-05-07 09:11:56,Opened
+17,Social Media,2023-06-10 02:56:08,Unsubscribed
+18,Email,2024-02-22 14:43:06,Opened
+20,Social Media,2023-12-08 13:24:55,Opened
+21,Social Media,2023-11-06 03:09:38,Unsubscribed
+24,Direct Mail,2024-03-22 04:41:01,Unsubscribed
+24,Email,2023-10-21 22:21:38,Clicked
+24,Social Media,2024-02-04 12:28:29,Opened
+25,Direct Mail,2024-03-30 07:49:52,Clicked
+25,Email,2023-09-09 00:03:09,Clicked
+26,Direct Mail,2024-04-19 05:12:50,Clicked
+26,Direct Mail,2024-05-01 15:13:19,Unsubscribed
+26,Email,2024-04-17 05:06:24,Opened
+28,Social Media,2024-04-11 18:05:56,Converted
+28,Social Media,2024-01-22 18:36:43,Opened
+28,Direct Mail,2024-03-13 13:07:41,Opened
+29,Email,2023-09-19 16:04:05,Opened
+30,Social Media,2023-07-25 19:48:26,Clicked
+30,Social Media,2023-08-27 19:14:07,Unsubscribed
+30,SMS,2024-03-30 02:34:50,Converted
+31,Social Media,2023-06-21 01:16:44,Unsubscribed
+32,Social Media,2023-12-13 22:55:51,Converted
+32,SMS,2023-12-17 09:49:01,Converted
+32,Email,2023-07-23 15:20:51,Clicked
+33,Email,2023-07-23 19:45:48,Converted
+34,SMS,2023-11-17 12:43:43,Opened
+34,Email,2023-09-17 16:43:10,Converted
+34,Social Media,2023-12-21 02:51:59,Converted
+35,SMS,2023-07-16 05:55:48,Unsubscribed
+35,Direct Mail,2023-10-06 15:00:59,Unsubscribed
+36,Email,2023-08-17 13:55:46,Opened
+38,Social Media,2023-09-15 07:22:59,Clicked
+39,Direct Mail,2024-03-17 01:29:49,Opened
+41,SMS,2024-02-06 00:36:14,Converted
+41,Social Media,2023-12-29 00:06:22,Clicked
+41,Email,2023-09-17 23:22:54,Clicked
+42,Social Media,2023-09-27 00:29:41,Opened
+42,SMS,2023-08-16 21:19:38,Converted
+42,Social Media,2024-02-06 19:50:43,Clicked
+43,Social Media,2024-02-23 21:55:20,Clicked
+43,Direct Mail,2024-04-30 01:57:16,Clicked
+44,SMS,2023-06-21 22:45:08,Opened
+44,Email,2023-12-21 03:46:46,Converted
+45,Direct Mail,2024-02-19 06:25:01,Converted
+46,Social Media,2023-11-10 12:09:12,Clicked
+46,Email,2023-05-29 13:43:49,Opened
+47,Direct Mail,2023-09-01 01:09:49,Opened
+48,Social Media,2023-07-24 21:22:47,Opened
+50,Social Media,2023-11-03 18:13:55,Opened
+50,Social Media,2024-05-11 17:36:52,Unsubscribed
+50,Social Media,2023-08-30 16:57:05,Converted
+51,SMS,2023-08-14 15:32:19,Clicked
+51,Direct Mail,2024-01-26 14:15:00,Opened
+53,Social Media,2023-11-27 00:37:36,Unsubscribed
+53,Social Media,2024-05-11 20:07:10,Unsubscribed
+53,Social Media,2023-05-15 22:54:58,Converted
+54,SMS,2023-08-30 18:54:22,Converted
+54,Email,2023-06-09 18:32:00,Clicked
+55,Social Media,2024-02-05 18:35:45,Converted
+55,Direct Mail,2024-05-08 03:30:22,Unsubscribed
+55,Direct Mail,2024-03-19 22:46:03,Unsubscribed
+56,SMS,2023-08-08 12:41:02,Converted
+56,Social Media,2023-05-30 13:56:25,Opened
+57,Social Media,2023-12-22 17:29:47,Converted
+58,Direct Mail,2024-01-31 19:13:50,Clicked
+58,Email,2024-05-07 18:26:59,Unsubscribed
+60,Direct Mail,2023-10-01 05:38:18,Unsubscribed
+60,Direct Mail,2024-03-07 23:12:57,Clicked
+60,Email,2023-07-18 21:44:11,Clicked
+62,Direct Mail,2023-08-17 21:29:36,Clicked
+63,Social Media,2024-02-14 08:51:24,Opened
+66,Social Media,2023-08-29 05:39:00,Opened
+66,SMS,2023-08-28 03:45:14,Opened
+68,SMS,2023-06-27 13:09:32,Unsubscribed
+68,Direct Mail,2024-04-01 10:12:59,Unsubscribed
+70,SMS,2023-12-08 16:57:31,Clicked
+71,Social Media,2024-03-18 18:53:25,Converted
+71,SMS,2024-03-09 15:05:45,Unsubscribed
+72,Social Media,2023-12-22 01:56:17,Clicked
+72,Social Media,2023-07-23 16:12:00,Opened
+73,Direct Mail,2023-09-26 03:16:04,Converted
+73,Email,2023-11-20 07:15:17,Clicked
+73,Direct Mail,2024-03-10 14:17:48,Unsubscribed
+74,SMS,2024-02-18 17:36:32,Opened
+74,Social Media,2023-09-24 16:09:19,Converted
+77,Email,2024-02-23 09:42:01,Clicked
+77,Social Media,2023-10-26 07:24:10,Clicked
+77,Social Media,2023-10-22 03:19:06,Unsubscribed
+79,SMS,2024-01-30 22:53:53,Clicked
+79,Email,2023-10-30 16:34:44,Unsubscribed
+80,Email,2023-10-14 19:53:09,Opened
+80,Email,2024-01-25 23:30:44,Unsubscribed
+80,SMS,2023-08-01 17:54:21,Opened
+81,Email,2023-11-28 13:07:52,Unsubscribed
+81,Direct Mail,2024-01-16 00:21:45,Converted
+81,Social Media,2024-03-07 19:38:49,Unsubscribed
+82,Social Media,2023-08-21 03:27:44,Converted
+82,Direct Mail,2024-03-08 14:45:22,Clicked
+83,SMS,2024-05-09 08:33:15,Clicked
+84,Social Media,2023-09-15 01:12:21,Converted
+86,Direct Mail,2023-08-22 22:04:39,Clicked
+86,Social Media,2023-08-30 16:02:31,Unsubscribed
+87,Email,2024-01-18 12:18:42,Clicked
+88,Direct Mail,2023-11-18 12:54:28,Converted
+88,Direct Mail,2023-11-04 09:17:21,Unsubscribed
+88,SMS,2024-02-23 21:35:27,Opened
+89,SMS,2023-08-21 13:41:00,Unsubscribed
+89,Email,2023-09-01 12:56:56,Converted
+90,Social Media,2023-06-27 02:39:50,Unsubscribed
+90,Social Media,2023-08-15 00:34:56,Converted
+91,Social Media,2024-02-09 17:13:28,Opened
+91,SMS,2023-11-16 21:26:54,Unsubscribed
+92,Direct Mail,2024-01-21 16:32:37,Opened
+94,Social Media,2023-05-25 16:40:03,Unsubscribed
+94,Email,2023-07-13 02:16:40,Unsubscribed
+96,SMS,2024-01-04 22:46:00,Opened
+96,Social Media,2024-03-16 19:34:54,Converted
+97,SMS,2023-12-20 06:03:43,Converted
+98,Direct Mail,2024-03-31 07:20:42,Clicked
+98,SMS,2023-11-08 04:18:56,Opened
+98,SMS,2023-09-13 07:08:57,Unsubscribed
+99,Email,2024-03-11 19:38:35,Opened
+99,Direct Mail,2023-11-28 15:09:13,Clicked
+101,Direct Mail,2023-09-15 09:29:46,Unsubscribed
+102,SMS,2023-09-17 20:22:03,Converted
+102,Direct Mail,2024-01-02 06:19:25,Unsubscribed
+103,Social Media,2024-02-09 14:20:09,Converted
+104,Direct Mail,2023-09-22 08:19:05,Unsubscribed
+104,SMS,2023-05-30 14:01:05,Clicked
+105,Direct Mail,2023-10-10 21:17:40,Clicked
+105,Direct Mail,2024-04-30 04:08:27,Opened
+105,Email,2023-07-24 10:47:16,Unsubscribed
+106,Social Media,2023-11-25 13:53:57,Unsubscribed
+106,Email,2024-04-22 21:55:36,Clicked
+106,Direct Mail,2024-01-04 19:32:33,Clicked
+107,Direct Mail,2023-07-05 15:37:00,Opened
+107,Email,2024-03-15 21:15:56,Opened
+107,Social Media,2024-02-20 11:24:04,Opened
+109,SMS,2023-12-02 03:42:12,Clicked
+109,Social Media,2023-12-30 16:31:24,Opened
+109,Social Media,2023-11-04 02:27:30,Converted
+110,SMS,2024-01-11 02:25:39,Unsubscribed
+110,Direct Mail,2023-06-15 07:39:03,Converted
+110,Social Media,2024-04-06 00:10:50,Unsubscribed
+111,Social Media,2023-10-29 11:23:52,Unsubscribed
+111,Social Media,2023-12-03 12:58:18,Opened
+112,SMS,2023-08-14 07:19:13,Converted
+115,Email,2023-12-23 04:16:03,Opened
+115,Social Media,2024-04-01 07:20:57,Unsubscribed
+115,SMS,2023-08-03 15:43:41,Clicked
+116,Social Media,2023-12-03 20:52:58,Converted
+116,SMS,2024-02-23 12:54:21,Clicked
+116,Direct Mail,2023-12-10 23:58:03,Opened
+118,Social Media,2023-06-25 04:06:09,Clicked
+118,Direct Mail,2023-10-02 12:14:17,Converted
+118,SMS,2023-09-03 16:17:19,Clicked
+119,Email,2024-03-19 20:45:41,Converted
+120,SMS,2023-09-30 04:48:44,Clicked
+122,Social Media,2024-02-22 03:28:11,Converted
+123,Direct Mail,2023-05-26 11:47:50,Converted
+123,Social Media,2023-08-15 17:09:27,Opened
+123,Social Media,2024-04-20 12:27:41,Converted
+124,Direct Mail,2023-10-30 11:24:26,Unsubscribed
+125,Email,2023-06-18 07:32:17,Unsubscribed
+125,Email,2023-06-08 03:48:23,Opened
+125,Social Media,2024-04-25 23:08:49,Converted
+126,Email,2023-10-11 10:02:50,Opened
+127,Social Media,2024-04-20 17:58:10,Clicked
+129,SMS,2024-03-21 06:43:44,Unsubscribed
+130,Direct Mail,2023-12-26 08:10:48,Clicked
+130,Social Media,2023-08-20 14:43:45,Opened
+130,SMS,2023-11-11 14:15:49,Unsubscribed
+131,SMS,2024-02-23 19:18:30,Unsubscribed
+131,Direct Mail,2023-07-25 00:29:41,Converted
+131,Email,2023-08-20 23:30:51,Converted
+133,Social Media,2023-12-11 23:02:00,Opened
+134,Email,2023-10-31 01:03:06,Converted
+134,Social Media,2023-06-22 20:52:50,Opened
+135,Social Media,2023-09-24 21:29:36,Opened
+136,SMS,2023-12-23 22:32:49,Converted
+137,Email,2023-07-04 03:32:52,Unsubscribed
+138,Direct Mail,2023-05-14 16:40:22,Clicked
+138,Email,2023-07-08 20:54:23,Unsubscribed
+139,Social Media,2024-03-22 07:56:44,Clicked
+139,Direct Mail,2024-02-12 20:39:05,Converted
+144,Direct Mail,2023-08-27 17:29:12,Unsubscribed
+144,Direct Mail,2023-12-30 07:23:29,Converted
+144,Social Media,2023-11-14 03:01:04,Converted
+145,Email,2023-07-10 04:34:16,Opened
+146,SMS,2023-06-03 00:01:48,Unsubscribed
+147,Email,2023-11-29 20:37:44,Unsubscribed
+147,Direct Mail,2024-03-12 08:21:05,Unsubscribed
+148,SMS,2023-12-12 13:12:58,Unsubscribed
+148,Email,2024-03-16 20:56:51,Converted
+148,Email,2024-02-10 04:06:10,Opened
+149,Direct Mail,2024-01-06 10:02:07,Unsubscribed
+149,Direct Mail,2023-12-03 02:01:25,Unsubscribed
+150,Social Media,2024-03-22 21:50:20,Converted
+151,Email,2023-12-07 09:14:47,Converted
+151,Social Media,2024-04-03 05:09:30,Converted
+154,Social Media,2024-01-03 05:05:17,Clicked
+155,Email,2023-08-21 04:36:12,Unsubscribed
+155,Direct Mail,2023-10-14 05:31:36,Clicked
+155,Social Media,2024-04-12 19:26:42,Opened
+158,Direct Mail,2023-07-19 00:28:41,Clicked
+158,Social Media,2023-06-10 16:30:09,Opened
+158,Social Media,2023-05-29 14:47:38,Converted
+159,Email,2024-03-02 17:33:49,Converted
+159,Social Media,2024-01-02 13:06:52,Unsubscribed
+159,Email,2023-09-27 10:34:47,Unsubscribed
+160,Social Media,2023-11-18 13:08:55,Converted
+163,Direct Mail,2023-11-26 11:39:01,Clicked
+163,Direct Mail,2024-03-20 00:28:16,Converted
+164,SMS,2024-02-21 01:30:38,Unsubscribed
+164,Direct Mail,2024-01-28 03:55:18,Converted
+164,SMS,2024-02-24 13:56:31,Unsubscribed
+165,Social Media,2024-03-20 01:25:26,Clicked
+166,Social Media,2024-03-27 16:09:02,Opened
+166,Direct Mail,2023-09-15 08:25:19,Clicked
+167,Social Media,2024-02-21 01:18:44,Unsubscribed
+167,Email,2024-01-25 02:18:48,Unsubscribed
+167,Direct Mail,2023-10-21 12:39:16,Unsubscribed
+168,SMS,2024-03-11 07:22:29,Opened
+168,Email,2024-01-10 23:31:02,Converted
+168,SMS,2023-07-05 11:04:15,Converted
+169,SMS,2024-03-05 23:03:13,Unsubscribed
+170,Social Media,2024-04-13 07:42:13,Unsubscribed
+171,SMS,2024-03-09 07:26:58,Opened
+171,SMS,2023-11-02 18:29:17,Clicked
+172,Direct Mail,2024-02-09 22:00:59,Opened
+172,Direct Mail,2024-01-10 23:21:11,Converted
+172,Direct Mail,2023-06-02 04:51:06,Clicked
+173,Social Media,2023-06-27 21:24:26,Unsubscribed
+173,Direct Mail,2023-10-06 03:44:06,Converted
+174,Email,2023-08-27 05:51:37,Opened
+175,Email,2024-03-06 20:27:00,Converted
+175,SMS,2024-02-29 19:03:54,Clicked
+176,Social Media,2023-06-08 23:38:30,Converted
+176,Direct Mail,2024-02-22 08:40:38,Opened
+177,Direct Mail,2023-06-21 04:06:41,Unsubscribed
+177,Direct Mail,2024-04-10 19:51:27,Converted
+177,Direct Mail,2023-08-12 02:35:41,Unsubscribed
+180,Direct Mail,2024-02-29 21:20:04,Opened
+180,Social Media,2024-01-15 08:12:27,Clicked
+180,Direct Mail,2023-08-19 00:22:08,Opened
+181,Social Media,2023-10-22 22:14:45,Clicked
+183,Direct Mail,2023-12-19 18:43:16,Converted
+184,Social Media,2023-05-17 19:55:27,Opened
+184,Email,2023-10-29 21:57:54,Clicked
+185,SMS,2023-09-19 17:33:40,Opened
+186,SMS,2023-07-31 15:10:16,Unsubscribed
+186,Email,2024-03-02 20:22:04,Clicked
+186,Direct Mail,2023-11-20 05:49:14,Converted
+187,Social Media,2023-11-16 16:25:17,Unsubscribed
+188,SMS,2024-03-25 19:02:54,Opened
+189,SMS,2023-07-31 20:02:01,Clicked
+189,Direct Mail,2023-10-25 19:08:51,Clicked
+189,Direct Mail,2024-01-12 03:50:06,Opened
+190,Direct Mail,2023-07-05 05:14:52,Converted
+191,SMS,2024-01-14 04:54:03,Unsubscribed
+191,Direct Mail,2024-03-02 17:11:36,Unsubscribed
+192,Social Media,2024-04-03 21:00:23,Unsubscribed
+193,Email,2023-09-15 14:50:22,Unsubscribed
+193,Social Media,2023-10-13 12:34:49,Opened
+194,Direct Mail,2023-09-03 17:34:49,Unsubscribed
+194,SMS,2024-04-03 21:18:10,Clicked
+196,Social Media,2023-06-21 20:24:28,Opened
+196,Email,2023-10-25 10:19:53,Converted
+199,Direct Mail,2023-09-07 06:53:23,Unsubscribed
+199,Direct Mail,2023-08-10 11:52:34,Clicked
+199,Direct Mail,2024-01-21 18:45:35,Converted
+200,Direct Mail,2023-10-03 13:25:23,Clicked
+200,Email,2023-12-11 15:09:05,Clicked
+201,SMS,2024-04-20 12:16:15,Opened
+201,SMS,2023-08-29 19:37:11,Unsubscribed
+201,Social Media,2023-08-26 00:54:56,Clicked
+202,Direct Mail,2023-12-12 15:51:52,Unsubscribed
+203,Email,2023-09-13 12:08:07,Opened
+203,Direct Mail,2023-08-12 01:19:33,Clicked
+205,Social Media,2024-01-01 08:09:31,Converted
+206,Social Media,2023-09-09 19:13:34,Unsubscribed
+206,Social Media,2023-07-31 16:30:43,Unsubscribed
+206,SMS,2024-03-28 20:53:09,Opened
+207,Social Media,2023-09-10 10:17:52,Unsubscribed
+207,SMS,2023-08-31 13:42:17,Converted
+208,Social Media,2023-10-04 10:15:10,Unsubscribed
+209,Social Media,2023-11-16 23:20:49,Clicked
+210,SMS,2024-04-16 16:21:06,Unsubscribed
+210,Social Media,2023-08-04 14:52:00,Converted
+211,Email,2023-10-18 01:12:50,Opened
+211,Direct Mail,2023-11-19 19:16:08,Opened
+211,Direct Mail,2024-02-29 09:39:57,Opened
+212,SMS,2023-12-12 12:26:36,Converted
+213,Direct Mail,2023-09-19 00:03:21,Converted
+213,Social Media,2024-01-22 11:07:54,Opened
+215,Social Media,2024-04-22 16:34:19,Opened
+216,Direct Mail,2024-03-15 18:45:58,Clicked
+216,Email,2024-03-12 08:56:54,Unsubscribed
+217,Social Media,2023-05-19 16:36:31,Opened
+217,Email,2023-09-20 17:51:11,Converted
+218,SMS,2023-05-16 23:32:32,Opened
+218,Direct Mail,2024-01-16 02:40:52,Clicked
+219,SMS,2023-06-03 14:56:17,Converted
+220,Email,2024-02-19 22:16:59,Unsubscribed
+220,Social Media,2023-10-04 04:55:10,Converted
+221,Email,2023-12-01 00:52:59,Clicked
+221,Social Media,2023-08-13 11:04:58,Converted
+222,Social Media,2024-04-09 13:57:51,Opened
+223,SMS,2023-06-09 00:36:28,Opened
+223,SMS,2024-02-02 19:32:43,Clicked
+225,SMS,2023-06-13 22:21:01,Opened
+226,SMS,2023-08-14 08:22:33,Opened
+226,Direct Mail,2023-10-15 11:51:52,Converted
+227,Direct Mail,2023-06-24 16:44:56,Opened
+227,Social Media,2023-07-24 06:01:31,Clicked
+227,Social Media,2023-06-02 13:51:57,Opened
+228,SMS,2024-04-01 06:38:16,Opened
+228,Social Media,2024-01-01 03:21:25,Clicked
+228,SMS,2023-05-31 04:39:03,Clicked
+229,Email,2023-09-26 12:48:59,Converted
+231,Email,2023-09-09 03:27:44,Opened
+231,SMS,2023-11-27 12:59:22,Clicked
+231,Email,2023-08-01 04:12:38,Unsubscribed
+232,Direct Mail,2023-07-25 09:40:23,Opened
+233,Email,2023-11-10 01:26:24,Converted
+233,Social Media,2023-11-22 15:49:30,Clicked
+233,SMS,2023-12-02 04:02:35,Converted
+234,Direct Mail,2024-01-29 16:18:25,Unsubscribed
+234,Social Media,2024-03-20 17:05:43,Opened
+235,SMS,2023-09-19 12:24:58,Clicked
+235,SMS,2023-06-21 13:28:37,Converted
+237,Direct Mail,2023-07-23 11:58:32,Unsubscribed
+237,Email,2023-08-11 14:09:07,Opened
+238,Direct Mail,2023-10-13 12:22:40,Clicked
+239,SMS,2024-02-12 10:36:30,Converted
+240,Email,2024-01-08 14:18:28,Unsubscribed
+241,Direct Mail,2024-01-20 10:29:47,Clicked
+241,SMS,2023-08-27 07:05:19,Clicked
+242,Social Media,2023-08-16 15:03:39,Unsubscribed
+242,Social Media,2024-02-02 23:37:47,Clicked
+243,Email,2024-01-14 06:23:14,Converted
+243,Email,2023-12-21 07:05:38,Converted
+245,Social Media,2024-04-17 00:51:57,Clicked
+246,Social Media,2023-05-23 07:45:35,Unsubscribed
+246,Email,2023-09-12 14:38:06,Converted
+246,Direct Mail,2023-07-02 09:58:15,Unsubscribed
+247,SMS,2024-03-12 17:35:41,Converted
+247,Social Media,2024-05-06 10:06:34,Unsubscribed
+248,SMS,2023-08-23 12:29:19,Opened
+249,Email,2023-10-23 10:46:33,Unsubscribed
+252,SMS,2023-09-17 03:33:04,Unsubscribed
+252,Direct Mail,2024-04-28 05:02:26,Opened
+253,Direct Mail,2024-04-29 16:56:39,Converted
+253,Direct Mail,2023-09-02 16:25:39,Opened
+254,SMS,2024-05-02 21:30:49,Unsubscribed
+255,Social Media,2023-05-18 16:24:01,Clicked
+256,SMS,2023-12-25 15:35:25,Clicked
+256,SMS,2023-10-15 00:23:36,Opened
+257,Direct Mail,2024-03-24 00:00:38,Unsubscribed
+257,Direct Mail,2023-07-28 10:08:05,Converted
+257,Email,2024-03-02 16:35:26,Opened
+258,Social Media,2023-08-08 20:27:18,Clicked
+258,SMS,2023-06-13 16:11:40,Opened
+259,SMS,2024-01-09 14:16:01,Opened
+259,Social Media,2024-02-08 04:54:48,Clicked
+260,SMS,2023-06-04 14:23:24,Converted
+260,Direct Mail,2023-08-23 08:22:05,Clicked
+261,Direct Mail,2023-08-05 17:31:46,Unsubscribed
+262,Social Media,2024-03-31 05:12:42,Unsubscribed
+262,SMS,2023-07-05 14:29:15,Converted
+262,SMS,2023-12-20 02:54:04,Opened
+265,Email,2024-03-28 11:39:32,Opened
+265,Direct Mail,2023-08-20 23:11:07,Opened
+265,Social Media,2024-03-13 10:03:52,Unsubscribed
+266,Email,2023-12-21 20:21:00,Clicked
+266,Social Media,2023-11-11 00:40:42,Unsubscribed
+266,Email,2024-01-17 03:19:51,Converted
+269,Social Media,2024-04-09 18:43:51,Clicked
+271,Social Media,2024-03-30 10:53:04,Clicked
+271,Social Media,2023-06-30 22:38:08,Converted
+272,Direct Mail,2023-08-10 16:33:04,Converted
+272,Direct Mail,2024-01-29 17:34:39,Unsubscribed
+272,Social Media,2024-04-30 15:43:44,Clicked
+273,Email,2023-09-07 14:51:44,Unsubscribed
+273,Email,2023-12-20 12:20:48,Converted
+273,Social Media,2024-02-17 03:27:28,Clicked
+275,Email,2024-04-26 02:21:07,Unsubscribed
+275,Email,2023-08-31 06:47:45,Opened
+275,Direct Mail,2023-08-25 19:24:19,Opened
+276,Direct Mail,2023-10-13 11:28:59,Unsubscribed
+276,Social Media,2023-09-07 22:21:03,Unsubscribed
+276,Social Media,2023-07-30 10:25:37,Converted
+277,Email,2023-05-21 11:08:28,Opened
+277,Email,2023-08-02 01:48:23,Opened
+277,Social Media,2024-01-16 14:33:52,Clicked
+278,Direct Mail,2023-12-17 22:27:54,Clicked
+279,Social Media,2023-10-03 18:15:24,Converted
+281,Email,2023-05-30 16:50:24,Clicked
+282,Social Media,2024-01-20 05:55:42,Clicked
+282,Social Media,2024-03-26 12:58:42,Opened
+283,Social Media,2023-09-21 06:05:48,Opened
+284,Direct Mail,2024-02-26 04:38:54,Opened
+285,Direct Mail,2023-06-28 03:41:51,Unsubscribed
+285,Email,2024-01-27 06:27:00,Opened
+286,SMS,2024-01-13 10:48:22,Converted
+287,Direct Mail,2023-09-17 00:53:57,Converted
+288,Email,2023-06-13 08:08:50,Opened
+288,Social Media,2023-08-18 16:43:05,Clicked
+288,Direct Mail,2023-08-24 14:30:55,Converted
+290,Direct Mail,2024-01-19 01:59:16,Clicked
+290,Direct Mail,2023-07-21 20:34:25,Opened
+290,SMS,2023-11-26 18:03:33,Opened
+291,Direct Mail,2024-04-28 03:23:31,Opened
+291,Social Media,2023-08-11 10:14:45,Clicked
+292,Social Media,2023-05-20 13:12:38,Converted
+292,Email,2023-10-28 16:33:52,Opened
+292,Direct Mail,2023-11-26 10:31:45,Unsubscribed
+294,SMS,2023-11-06 07:56:43,Opened
+294,SMS,2024-04-22 02:25:31,Unsubscribed
+294,Direct Mail,2023-12-21 12:23:36,Converted
+296,Social Media,2024-03-14 01:25:42,Converted
+296,Direct Mail,2024-02-07 11:51:27,Clicked
+296,Email,2023-12-16 08:04:17,Converted
+297,Email,2024-02-21 08:34:24,Unsubscribed
+297,SMS,2023-06-21 06:08:34,Opened
+298,SMS,2023-09-26 02:02:11,Opened
+298,Email,2023-12-24 09:38:31,Converted
+298,SMS,2024-01-23 15:58:12,Clicked
+299,Social Media,2023-12-12 04:56:31,Unsubscribed
+299,Direct Mail,2023-09-29 20:22:58,Converted
+300,Direct Mail,2024-04-24 10:53:08,Unsubscribed
+300,Direct Mail,2023-11-22 02:10:48,Unsubscribed
+300,Social Media,2023-07-04 20:09:29,Clicked
+301,Direct Mail,2023-05-16 01:11:30,Clicked
+301,Email,2024-02-13 05:32:59,Clicked
+301,Social Media,2024-04-02 11:57:16,Converted
+302,Social Media,2023-06-21 12:18:26,Converted
+303,Direct Mail,2023-10-18 07:42:56,Unsubscribed
+303,Social Media,2023-07-11 16:35:35,Opened
+303,Direct Mail,2023-05-23 14:05:42,Unsubscribed
+304,Social Media,2024-01-31 14:02:05,Converted
+304,Social Media,2024-04-07 00:13:08,Unsubscribed
+304,Email,2023-11-24 03:55:17,Converted
+305,Direct Mail,2023-11-06 07:46:13,Converted
+305,SMS,2023-12-29 16:21:39,Clicked
+305,Email,2024-03-16 14:59:17,Unsubscribed
+306,Social Media,2023-06-20 10:32:21,Unsubscribed
+306,SMS,2023-07-22 21:48:26,Opened
+307,Direct Mail,2023-06-28 00:53:55,Clicked
+308,Social Media,2023-11-23 02:17:43,Clicked
+308,Social Media,2023-06-23 12:22:48,Converted
+309,Direct Mail,2023-08-26 14:25:48,Converted
+309,Direct Mail,2023-08-19 23:27:51,Unsubscribed
+309,Direct Mail,2023-09-26 16:44:26,Opened
+310,Social Media,2024-01-12 14:54:49,Clicked
+310,SMS,2024-01-23 15:20:24,Opened
+310,SMS,2023-06-24 18:37:27,Opened
+312,SMS,2023-11-08 14:33:22,Converted
+313,SMS,2023-12-12 23:48:35,Clicked
+313,Social Media,2023-05-31 19:32:37,Converted
+313,Direct Mail,2023-10-23 01:39:05,Unsubscribed
+314,Social Media,2024-05-12 08:40:27,Clicked
+315,SMS,2023-06-25 06:27:05,Unsubscribed
+315,Social Media,2023-07-03 22:09:19,Opened
+315,SMS,2024-04-12 00:05:59,Converted
+316,SMS,2023-07-17 00:53:17,Opened
+316,Direct Mail,2023-06-24 15:38:42,Opened
+316,SMS,2023-12-21 08:30:09,Opened
+317,Social Media,2023-06-21 09:08:04,Clicked
+317,Social Media,2024-03-22 21:57:57,Clicked
+320,Email,2023-08-18 21:54:08,Opened
+320,Social Media,2024-04-21 21:29:43,Clicked
+321,Email,2023-10-31 21:22:27,Clicked
+322,Email,2023-09-17 08:05:58,Converted
+323,Social Media,2023-07-18 08:26:42,Clicked
+323,Direct Mail,2023-07-01 17:31:59,Clicked
+323,Direct Mail,2023-05-23 07:49:26,Converted
+325,Social Media,2023-09-29 09:12:44,Clicked
+325,SMS,2023-09-16 17:57:14,Converted
+326,Social Media,2023-12-07 04:12:48,Converted
+326,Social Media,2023-07-24 03:17:44,Unsubscribed
+326,Email,2023-11-30 03:47:17,Converted
+327,Direct Mail,2023-07-08 16:31:13,Clicked
+327,SMS,2023-10-18 11:57:27,Unsubscribed
+327,Social Media,2023-06-30 05:19:11,Opened
+328,Social Media,2023-08-03 12:38:19,Clicked
+328,SMS,2023-05-15 00:01:47,Opened
+328,Email,2023-11-18 12:30:05,Clicked
+329,Social Media,2024-05-05 04:59:12,Unsubscribed
+330,Direct Mail,2023-10-19 06:29:35,Clicked
+332,Social Media,2023-06-28 17:16:11,Unsubscribed
+332,SMS,2024-01-25 21:14:17,Converted
+332,Social Media,2024-01-10 17:36:56,Clicked
+333,SMS,2023-11-16 12:02:51,Opened
+333,Social Media,2024-04-11 17:40:55,Clicked
+334,SMS,2024-01-16 18:44:47,Opened
+334,Direct Mail,2024-02-05 13:25:18,Clicked
+334,SMS,2024-01-05 09:18:15,Clicked
+335,Email,2024-01-21 09:58:41,Unsubscribed
+337,Social Media,2023-05-15 22:19:47,Converted
+337,Email,2023-10-17 02:32:14,Converted
+338,SMS,2023-10-29 04:33:38,Unsubscribed
+338,Social Media,2023-08-24 01:22:31,Clicked
+338,SMS,2023-09-20 20:32:44,Clicked
+339,Direct Mail,2023-09-01 02:41:48,Unsubscribed
+339,Email,2024-04-18 02:13:36,Clicked
+340,Social Media,2023-12-23 08:21:41,Unsubscribed
+340,SMS,2023-10-11 16:21:27,Unsubscribed
+340,Direct Mail,2024-02-19 02:16:47,Unsubscribed
+341,Direct Mail,2023-05-25 02:48:17,Opened
+341,SMS,2024-01-26 20:19:16,Opened
+341,Email,2023-06-30 00:38:21,Converted
+342,Social Media,2023-11-11 15:45:45,Clicked
+343,SMS,2023-06-24 17:11:05,Converted
+344,Email,2023-07-07 08:20:51,Unsubscribed
+344,SMS,2023-09-30 03:33:11,Converted
+345,Direct Mail,2023-06-22 03:18:27,Unsubscribed
+345,SMS,2024-03-25 10:27:10,Unsubscribed
+346,Direct Mail,2023-05-27 10:05:32,Clicked
+346,SMS,2023-09-29 00:07:02,Clicked
+347,Social Media,2023-12-03 04:06:01,Converted
+349,Email,2024-03-04 01:25:29,Opened
+350,Direct Mail,2024-04-08 17:47:06,Converted
+350,Email,2023-08-31 08:31:13,Clicked
+350,SMS,2023-07-11 03:14:30,Unsubscribed
+351,SMS,2023-09-23 22:44:54,Unsubscribed
+351,Social Media,2023-09-25 22:40:43,Unsubscribed
+351,SMS,2023-08-02 19:36:25,Clicked
+354,SMS,2023-08-10 20:56:16,Unsubscribed
+354,Direct Mail,2023-06-02 03:14:17,Unsubscribed
+355,SMS,2023-07-25 11:50:28,Converted
+355,Social Media,2024-05-08 13:47:54,Opened
+356,Direct Mail,2024-03-28 13:50:58,Opened
+357,Social Media,2023-12-19 03:33:10,Opened
+358,Email,2023-10-21 04:49:43,Opened
+358,Social Media,2023-08-27 20:30:02,Opened
+362,Direct Mail,2024-04-01 16:20:41,Unsubscribed
+362,Email,2024-03-30 11:17:43,Opened
+363,Direct Mail,2023-07-07 07:15:10,Opened
+364,Email,2023-11-29 05:31:33,Converted
+365,SMS,2023-11-15 09:59:55,Clicked
+367,Direct Mail,2023-11-16 13:25:55,Unsubscribed
+367,Email,2024-03-12 15:12:04,Unsubscribed
+367,Social Media,2024-04-20 17:54:30,Converted
+369,SMS,2023-05-23 08:14:15,Converted
+369,Social Media,2024-01-29 05:00:59,Opened
+371,SMS,2024-03-08 08:31:59,Opened
+371,Direct Mail,2024-03-29 01:27:51,Opened
+375,Direct Mail,2023-05-30 13:07:39,Opened
+375,SMS,2024-05-05 06:30:51,Opened
+375,Email,2024-04-07 02:05:53,Converted
+376,Direct Mail,2023-06-13 18:03:12,Unsubscribed
+376,Social Media,2023-10-26 00:02:58,Unsubscribed
+376,SMS,2023-10-02 12:17:12,Unsubscribed
+377,Direct Mail,2024-03-24 04:09:32,Clicked
+377,Email,2024-03-06 13:18:49,Opened
+377,Direct Mail,2024-03-05 06:38:30,Opened
+378,SMS,2023-09-15 18:07:09,Opened
+378,Direct Mail,2023-10-24 08:43:02,Opened
+380,SMS,2023-08-20 05:48:23,Clicked
+380,Email,2023-07-04 09:25:15,Opened
+380,Social Media,2023-06-29 03:07:49,Converted
+381,Email,2023-09-13 12:39:48,Unsubscribed
+381,Social Media,2023-08-10 08:51:09,Clicked
+381,SMS,2023-07-28 01:51:15,Clicked
+382,Social Media,2024-02-07 07:59:01,Converted
+382,Social Media,2024-05-11 01:36:56,Converted
+382,Social Media,2024-01-25 08:06:07,Converted
+383,SMS,2023-05-28 15:27:21,Clicked
+383,Direct Mail,2024-05-10 16:25:04,Opened
+383,Email,2024-05-01 02:02:07,Clicked
+384,Social Media,2023-07-15 07:34:45,Unsubscribed
+387,Email,2024-01-16 15:35:33,Opened
+387,Email,2024-03-27 20:29:13,Unsubscribed
+388,Email,2023-11-06 00:54:57,Clicked
+389,Direct Mail,2024-04-13 20:36:48,Opened
+389,SMS,2024-05-07 18:33:11,Converted
+391,SMS,2023-09-03 14:10:10,Clicked
+392,Email,2023-12-04 07:25:20,Converted
+392,Email,2023-10-02 23:07:55,Opened
+392,Social Media,2023-09-04 10:59:14,Converted
+393,Social Media,2023-10-26 06:31:25,Unsubscribed
+393,Email,2023-05-28 01:19:21,Clicked
+393,Direct Mail,2023-11-17 04:55:24,Unsubscribed
+394,Social Media,2024-01-31 20:24:44,Unsubscribed
+394,Direct Mail,2024-03-25 04:05:19,Converted
+394,SMS,2023-08-30 22:13:42,Opened
+395,Social Media,2023-12-30 09:44:56,Opened
+395,Email,2023-12-19 16:28:04,Clicked
+396,SMS,2023-07-18 07:42:07,Opened
+396,SMS,2023-12-02 10:53:17,Opened
+396,Social Media,2024-01-01 22:58:21,Clicked
+397,Direct Mail,2023-08-05 00:27:12,Clicked
+397,SMS,2023-07-23 12:44:43,Unsubscribed
+397,SMS,2024-01-05 14:37:06,Clicked
+399,SMS,2023-10-25 20:14:49,Unsubscribed
+399,SMS,2024-03-19 23:01:16,Converted
+400,Email,2024-04-14 00:50:15,Converted
+400,Social Media,2024-01-30 08:48:05,Unsubscribed
+400,Social Media,2023-12-21 05:28:24,Opened
+401,Social Media,2024-02-18 07:22:50,Unsubscribed
+401,Social Media,2023-11-04 10:54:27,Opened
+402,SMS,2024-05-06 18:35:32,Unsubscribed
+404,Direct Mail,2024-04-23 10:40:07,Opened
+404,SMS,2023-05-26 13:36:09,Converted
+405,Direct Mail,2023-09-20 10:25:47,Clicked
+405,Social Media,2023-10-11 14:41:50,Converted
+405,Email,2024-03-09 20:14:01,Clicked
+406,Social Media,2023-11-30 20:39:47,Clicked
+406,Social Media,2024-01-15 23:22:30,Unsubscribed
+406,SMS,2023-05-28 12:30:11,Converted
+407,Email,2023-08-16 03:48:44,Opened
+407,Direct Mail,2024-01-24 21:47:29,Converted
+408,SMS,2023-10-31 03:33:15,Clicked
+408,Email,2023-11-30 03:25:01,Converted
+408,Email,2023-09-08 11:10:04,Converted
+409,Email,2024-03-05 17:54:14,Opened
+409,Email,2024-02-15 14:19:42,Opened
+410,Direct Mail,2024-02-26 04:50:31,Unsubscribed
+410,SMS,2024-04-17 11:31:45,Converted
+410,Email,2024-04-30 12:18:04,Opened
+411,SMS,2024-04-17 19:05:43,Opened
+411,Social Media,2024-02-13 02:33:40,Clicked
+412,Social Media,2023-12-29 20:58:04,Unsubscribed
+412,Direct Mail,2024-02-24 12:10:56,Converted
+412,SMS,2024-03-08 23:03:58,Opened
+414,SMS,2023-09-11 16:00:57,Unsubscribed
+415,Email,2024-02-03 04:18:38,Opened
+415,Direct Mail,2023-06-30 20:06:30,Unsubscribed
+415,Social Media,2023-08-02 11:28:22,Unsubscribed
+416,Email,2023-06-28 01:15:44,Converted
+416,Direct Mail,2024-03-25 05:25:06,Unsubscribed
+417,Email,2023-06-29 14:08:47,Opened
+417,Social Media,2023-07-27 10:34:17,Clicked
+417,Social Media,2024-03-17 08:33:38,Clicked
+418,SMS,2023-12-28 20:09:24,Clicked
+419,Email,2023-10-05 19:33:58,Clicked
+420,Direct Mail,2023-12-19 18:25:55,Unsubscribed
+420,Email,2024-01-19 06:04:41,Unsubscribed
+423,Email,2024-02-28 06:12:21,Opened
+423,Direct Mail,2024-04-06 12:05:12,Clicked
+423,Email,2023-11-21 18:28:01,Converted
+424,Email,2024-04-11 01:10:17,Opened
+424,Email,2024-03-22 08:04:29,Unsubscribed
+424,Direct Mail,2023-09-28 21:07:36,Unsubscribed
+425,Social Media,2023-06-23 03:51:06,Converted
+425,Social Media,2024-04-13 18:32:41,Converted
+425,Direct Mail,2023-07-28 09:56:49,Converted
+426,SMS,2023-10-15 14:08:05,Clicked
+426,Email,2024-02-28 09:54:33,Converted
+426,SMS,2023-12-29 19:46:55,Opened
+428,Email,2024-05-12 20:55:06,Clicked
+428,Direct Mail,2023-06-17 08:27:30,Opened
+428,Email,2023-06-28 21:45:47,Clicked
+429,Email,2023-11-26 02:56:44,Opened
+429,Direct Mail,2023-07-01 10:34:31,Unsubscribed
+429,SMS,2024-05-05 09:43:19,Converted
+430,Social Media,2023-11-25 19:40:41,Clicked
+431,Social Media,2024-01-09 22:03:46,Opened
+431,SMS,2024-01-19 11:45:29,Clicked
+432,Email,2023-09-26 19:04:57,Opened
+432,Social Media,2023-11-04 07:15:30,Unsubscribed
+433,Direct Mail,2023-07-16 09:46:00,Clicked
+433,SMS,2023-08-18 10:26:56,Opened
+434,Email,2023-10-22 15:02:30,Converted
+435,Email,2023-10-08 04:42:40,Converted
+435,Social Media,2023-10-08 17:37:17,Clicked
+437,Email,2024-05-03 18:12:30,Unsubscribed
+437,Social Media,2023-10-25 09:53:48,Clicked
+437,Email,2024-02-02 13:59:50,Opened
+438,Email,2023-09-26 03:07:30,Unsubscribed
+440,SMS,2023-09-08 17:34:23,Opened
+440,Social Media,2023-05-31 21:02:05,Opened
+440,SMS,2023-06-08 21:20:12,Unsubscribed
+441,Social Media,2023-05-15 07:55:42,Unsubscribed
+441,Email,2023-09-27 00:00:44,Converted
+441,Email,2024-03-10 01:11:05,Converted
+442,Email,2024-02-15 23:57:35,Clicked
+442,SMS,2023-11-11 21:53:23,Unsubscribed
+442,SMS,2024-03-17 02:01:41,Unsubscribed
+443,SMS,2024-01-03 21:41:19,Opened
+443,Direct Mail,2024-03-17 11:07:20,Opened
+443,Email,2023-07-12 06:19:47,Clicked
+445,SMS,2023-11-10 06:37:49,Opened
+446,Social Media,2023-11-22 15:24:16,Unsubscribed
+446,Direct Mail,2024-01-14 05:15:27,Opened
+446,Email,2024-02-17 00:49:37,Unsubscribed
+447,Direct Mail,2024-02-11 19:41:42,Unsubscribed
+449,Social Media,2024-01-07 21:27:36,Unsubscribed
+449,Social Media,2023-12-28 23:53:23,Opened
+449,Direct Mail,2023-08-10 14:14:50,Converted
+450,SMS,2023-10-24 18:10:50,Opened
+450,SMS,2023-12-30 07:06:53,Unsubscribed
+450,Email,2024-03-26 13:38:05,Converted
+451,Direct Mail,2024-03-12 05:32:29,Opened
+451,Direct Mail,2023-10-13 00:33:36,Clicked
+451,SMS,2023-06-06 18:15:20,Clicked
+453,Direct Mail,2023-11-25 22:38:09,Converted
+453,Direct Mail,2023-05-23 05:01:56,Clicked
+454,Social Media,2023-08-27 21:15:27,Clicked
+454,Social Media,2023-11-16 20:10:27,Unsubscribed
+454,Email,2023-12-14 23:17:02,Converted
+456,SMS,2023-05-18 05:27:48,Converted
+456,Email,2023-09-14 00:23:57,Converted
+457,Direct Mail,2023-06-08 15:43:51,Unsubscribed
+457,Email,2023-06-16 21:35:23,Converted
+457,Social Media,2023-07-11 05:23:05,Unsubscribed
+458,SMS,2024-01-16 05:37:19,Opened
+458,Social Media,2023-08-19 16:20:20,Unsubscribed
+458,Direct Mail,2024-04-12 02:30:34,Opened
+459,SMS,2023-06-26 17:26:55,Converted
+459,Social Media,2024-01-07 21:28:02,Clicked
+461,Email,2024-02-26 12:11:35,Clicked
+461,Email,2023-12-15 00:04:23,Opened
+462,Email,2023-11-09 03:16:06,Converted
+464,SMS,2023-08-11 15:42:19,Unsubscribed
+467,Email,2023-11-07 08:52:41,Opened
+472,Email,2023-10-19 10:37:08,Converted
+472,Direct Mail,2023-08-24 19:25:41,Clicked
+472,SMS,2023-09-21 10:03:25,Clicked
+474,SMS,2023-08-02 09:33:46,Converted
+474,SMS,2023-09-24 16:08:50,Unsubscribed
+476,Email,2024-01-14 14:19:47,Unsubscribed
+477,Email,2023-05-16 03:30:38,Converted
+477,Direct Mail,2023-11-05 11:40:16,Clicked
+478,SMS,2023-08-11 00:04:25,Clicked
+478,Direct Mail,2023-06-11 09:33:24,Clicked
+479,Direct Mail,2023-06-06 02:29:25,Clicked
+481,Direct Mail,2024-05-02 16:41:20,Unsubscribed
+481,SMS,2024-03-31 18:08:43,Converted
+482,Direct Mail,2024-03-06 16:44:41,Clicked
+482,SMS,2023-07-14 07:36:11,Opened
+482,Email,2023-08-31 23:58:34,Opened
+483,Social Media,2023-06-24 21:32:05,Unsubscribed
+484,Email,2023-06-30 05:38:48,Unsubscribed
+485,Social Media,2023-07-28 03:40:27,Unsubscribed
+486,Social Media,2024-03-05 02:02:38,Clicked
+486,SMS,2023-06-03 04:16:55,Converted
+486,SMS,2024-05-08 16:58:47,Unsubscribed
+487,Email,2024-03-25 16:05:40,Opened
+487,Email,2024-01-04 11:08:10,Converted
+487,Email,2023-11-11 07:02:02,Unsubscribed
+488,Email,2024-03-04 11:33:25,Clicked
+488,Social Media,2024-02-10 23:01:17,Clicked
+488,Social Media,2023-09-08 16:46:39,Unsubscribed
+489,Direct Mail,2023-05-31 06:07:45,Converted
+491,Social Media,2023-09-26 19:22:38,Opened
+491,Social Media,2023-07-14 01:39:03,Opened
+492,Direct Mail,2023-12-14 04:42:39,Clicked
+493,SMS,2024-03-28 06:08:32,Opened
+494,Direct Mail,2023-10-28 21:54:19,Opened
+494,SMS,2023-07-26 04:27:34,Unsubscribed
+494,Direct Mail,2023-10-27 06:41:57,Clicked
+496,Social Media,2023-11-07 08:47:51,Unsubscribed
+497,Social Media,2023-10-05 21:15:35,Converted
+497,SMS,2024-02-28 02:32:12,Converted
+500,SMS,2024-03-05 02:17:52,Clicked
+500,Direct Mail,2024-01-16 00:40:59,Unsubscribed
+500,Social Media,2023-06-06 12:20:48,Opened
+501,Social Media,2024-02-04 20:49:44,Unsubscribed
+501,Direct Mail,2023-07-29 20:33:07,Opened
+502,SMS,2024-01-21 07:38:15,Unsubscribed
+502,SMS,2023-05-22 11:11:09,Converted
+503,Direct Mail,2023-12-01 07:29:05,Converted
+504,Direct Mail,2024-01-17 18:54:30,Converted
+504,Direct Mail,2023-12-31 16:36:15,Unsubscribed
+504,Social Media,2024-03-04 00:42:00,Clicked
+505,Social Media,2023-08-11 13:59:12,Unsubscribed
+506,Email,2023-09-27 03:08:57,Converted
+506,Social Media,2023-09-18 10:00:58,Unsubscribed
+506,SMS,2024-03-19 18:16:06,Converted
+509,Direct Mail,2023-12-01 11:07:26,Opened
+511,SMS,2023-05-29 17:07:28,Clicked
+513,Email,2023-08-04 10:57:44,Opened
+513,Direct Mail,2024-01-27 11:02:25,Clicked
+514,Email,2023-11-13 04:35:02,Opened
+514,Email,2023-09-05 10:34:50,Converted
+514,Email,2024-04-04 02:13:40,Converted
+516,Email,2024-03-15 13:30:05,Unsubscribed
+516,Social Media,2023-06-28 09:06:05,Unsubscribed
+516,Email,2023-06-15 10:10:31,Clicked
+517,Email,2024-02-03 21:21:05,Unsubscribed
+517,Direct Mail,2023-10-02 02:50:34,Opened
+517,Email,2024-01-15 03:48:38,Opened
+518,Social Media,2024-04-25 13:01:47,Opened
+518,Email,2024-03-26 23:16:02,Unsubscribed
+518,SMS,2023-06-25 11:48:59,Unsubscribed
+519,SMS,2024-05-03 12:11:15,Clicked
+519,Social Media,2023-06-27 04:12:24,Converted
+521,Email,2024-02-05 01:50:18,Opened
+521,Direct Mail,2023-07-08 02:05:35,Opened
+522,Social Media,2024-01-25 03:19:15,Opened
+522,SMS,2024-03-01 17:25:08,Converted
+523,SMS,2023-09-13 10:03:23,Clicked
+523,Email,2024-04-14 02:01:05,Opened
+524,Email,2023-08-29 07:12:33,Opened
+524,Direct Mail,2023-05-17 09:52:47,Converted
+526,SMS,2023-11-13 10:28:39,Converted
+527,Social Media,2023-07-11 18:21:14,Unsubscribed
+528,SMS,2024-05-04 18:27:27,Opened
+530,Email,2023-07-12 11:08:02,Unsubscribed
+530,Email,2024-02-16 06:10:43,Converted
+530,Email,2023-05-28 11:48:29,Unsubscribed
+531,Social Media,2023-12-10 17:45:23,Unsubscribed
+532,Email,2023-07-24 08:58:20,Clicked
+532,SMS,2024-03-01 04:10:20,Clicked
+532,SMS,2023-06-26 06:50:44,Opened
+536,Email,2023-08-15 17:57:45,Unsubscribed
+536,SMS,2024-04-14 15:02:47,Clicked
+537,Email,2023-09-17 07:10:47,Unsubscribed
+537,SMS,2024-01-01 17:12:41,Converted
+539,Social Media,2023-11-24 20:55:53,Opened
+543,Email,2024-04-27 01:37:17,Opened
+543,Social Media,2023-11-16 01:27:17,Opened
+546,Direct Mail,2023-10-16 19:33:12,Clicked
+546,SMS,2023-12-18 07:25:15,Clicked
+546,Direct Mail,2023-06-10 04:07:21,Opened
+547,Email,2023-11-19 16:57:35,Converted
+547,Email,2023-07-23 12:46:31,Converted
+549,SMS,2023-12-06 13:32:54,Opened
+550,Email,2023-09-07 19:29:09,Opened
+550,Social Media,2024-05-11 06:59:54,Clicked
+550,SMS,2023-08-28 06:33:32,Unsubscribed
+551,SMS,2023-07-07 21:56:49,Clicked
+551,Direct Mail,2023-07-26 16:07:09,Unsubscribed
+551,Email,2023-11-05 12:54:05,Unsubscribed
+552,SMS,2023-05-14 14:31:35,Clicked
+553,SMS,2024-02-09 04:03:07,Converted
+553,SMS,2023-07-03 05:24:47,Opened
+554,Direct Mail,2023-07-10 22:28:30,Converted
+554,Email,2024-02-12 15:57:41,Unsubscribed
+554,Email,2023-06-09 19:58:58,Clicked
+556,SMS,2023-09-26 15:41:58,Opened
+557,SMS,2023-12-28 05:43:16,Clicked
+557,Direct Mail,2024-03-22 03:04:09,Clicked
+558,Social Media,2023-06-15 19:27:24,Converted
+558,Email,2023-10-18 12:04:13,Opened
+558,Email,2023-06-26 05:51:25,Unsubscribed
+559,Social Media,2024-04-26 07:13:41,Clicked
+561,Social Media,2023-10-09 00:48:57,Clicked
+561,SMS,2024-03-19 04:06:13,Converted
+562,Direct Mail,2023-12-06 11:15:20,Opened
+564,Direct Mail,2024-01-24 13:36:32,Unsubscribed
+566,Social Media,2024-02-18 01:02:27,Clicked
+567,Email,2024-01-18 10:18:20,Converted
+567,Direct Mail,2023-08-07 08:32:33,Converted
+568,SMS,2024-03-02 09:11:14,Converted
+568,Email,2023-06-23 20:07:03,Opened
+569,Email,2024-05-09 13:29:11,Clicked
+570,SMS,2023-05-21 10:30:11,Opened
+570,SMS,2024-01-22 22:03:37,Clicked
+570,Social Media,2023-10-20 02:03:25,Unsubscribed
+571,Direct Mail,2024-05-03 07:20:59,Converted
+571,SMS,2024-03-05 18:37:32,Clicked
+572,Social Media,2023-10-01 11:22:37,Unsubscribed
+573,Social Media,2024-02-17 12:59:30,Converted
+573,SMS,2023-12-28 07:29:05,Opened
+574,SMS,2024-05-09 21:08:51,Clicked
+574,SMS,2024-03-06 12:31:22,Unsubscribed
+574,Direct Mail,2024-04-19 12:07:03,Clicked
+575,Email,2024-02-17 19:41:10,Unsubscribed
+575,SMS,2024-02-21 06:41:01,Clicked
+577,Email,2024-03-20 20:22:14,Converted
+577,Social Media,2023-06-26 13:29:55,Unsubscribed
+578,Social Media,2023-09-05 14:27:47,Converted
+578,Email,2024-03-15 05:35:48,Clicked
+578,Social Media,2023-11-10 06:37:51,Unsubscribed
+579,Direct Mail,2024-01-28 14:33:00,Clicked
+580,Social Media,2023-11-26 20:17:00,Clicked
+581,Direct Mail,2024-01-28 14:23:06,Converted
+581,Email,2023-07-27 16:16:12,Clicked
+581,Direct Mail,2023-07-09 09:11:51,Clicked
+582,Social Media,2023-10-18 08:28:19,Converted
+582,SMS,2024-04-10 14:17:45,Clicked
+582,Email,2023-08-26 16:45:26,Unsubscribed
+583,Social Media,2024-04-25 09:02:27,Opened
+583,Email,2023-11-15 20:03:31,Converted
+583,Social Media,2024-04-11 17:59:19,Unsubscribed
+586,Direct Mail,2023-10-11 04:34:51,Clicked
+586,Direct Mail,2023-12-09 09:38:03,Unsubscribed
+587,Social Media,2023-08-02 14:00:27,Opened
+588,SMS,2023-06-09 19:14:37,Converted
+588,Direct Mail,2024-03-07 01:30:58,Opened
+589,Direct Mail,2023-06-12 03:46:19,Opened
+589,Direct Mail,2023-12-12 17:12:19,Converted
+590,Social Media,2023-06-02 07:57:43,Unsubscribed
+592,SMS,2024-01-30 04:46:42,Converted
+594,Direct Mail,2023-11-16 00:58:04,Clicked
+595,Direct Mail,2023-10-02 13:47:30,Clicked
+595,Social Media,2023-05-25 15:28:00,Opened
+596,Direct Mail,2023-11-21 11:03:09,Converted
+597,SMS,2023-09-05 02:50:15,Opened
+597,Social Media,2024-01-25 14:59:26,Clicked
+597,Direct Mail,2023-11-06 02:48:08,Converted
+598,Direct Mail,2024-05-08 19:07:38,Unsubscribed
+598,Email,2024-03-18 21:28:53,Opened
+598,Social Media,2023-12-01 12:34:01,Clicked
+599,Social Media,2023-10-01 23:20:28,Unsubscribed
+599,SMS,2024-03-10 15:09:50,Converted
+599,Direct Mail,2023-06-14 08:42:50,Unsubscribed
+600,Email,2023-09-19 06:18:22,Converted
+600,Direct Mail,2023-12-19 10:59:43,Unsubscribed
+601,Social Media,2024-01-29 14:25:06,Opened
+602,Direct Mail,2023-12-08 10:37:03,Clicked
+605,SMS,2024-01-18 12:24:15,Opened
+607,Email,2023-06-24 00:58:59,Converted
+607,SMS,2023-06-15 10:44:53,Unsubscribed
+607,Email,2023-11-07 08:42:14,Clicked
+608,SMS,2024-03-30 06:57:05,Converted
+608,Email,2023-06-23 14:38:27,Converted
+608,Email,2023-12-05 12:18:59,Unsubscribed
+610,SMS,2023-09-01 06:56:30,Opened
+610,Social Media,2023-11-21 16:03:06,Opened
+610,Direct Mail,2023-12-24 20:32:18,Clicked
+611,SMS,2024-03-17 19:36:43,Converted
+612,Social Media,2023-07-28 21:51:35,Clicked
+612,SMS,2024-03-13 11:49:36,Converted
+612,Direct Mail,2023-11-13 19:07:24,Converted
+613,SMS,2024-01-07 10:49:41,Unsubscribed
+613,SMS,2023-07-05 07:42:03,Opened
+614,Direct Mail,2023-08-15 01:59:06,Unsubscribed
+614,Email,2023-11-23 20:34:09,Converted
+614,Social Media,2023-05-23 18:45:20,Opened
+615,Direct Mail,2023-08-05 03:23:32,Opened
+615,SMS,2024-01-26 18:08:41,Clicked
+617,Social Media,2023-11-10 10:40:44,Converted
+617,Direct Mail,2023-07-13 19:04:07,Clicked
+618,Email,2024-03-03 08:09:19,Clicked
+618,Direct Mail,2023-10-23 20:09:36,Converted
+619,Social Media,2023-09-17 08:57:22,Converted
+620,Email,2023-12-09 03:30:42,Opened
+621,Direct Mail,2023-05-18 02:52:34,Unsubscribed
+621,SMS,2023-10-03 21:54:17,Converted
+621,SMS,2024-05-09 10:19:53,Converted
+622,Social Media,2024-01-29 18:22:51,Converted
+623,Email,2023-11-30 10:50:08,Unsubscribed
+623,SMS,2024-02-02 05:09:07,Converted
+623,Direct Mail,2023-07-02 09:57:02,Converted
+624,Email,2023-10-11 00:39:31,Converted
+624,SMS,2024-04-19 14:19:36,Opened
+625,SMS,2023-08-03 08:15:01,Clicked
+627,Direct Mail,2024-02-21 19:41:29,Opened
+627,Social Media,2024-01-30 03:48:49,Clicked
+628,Social Media,2023-06-13 22:24:39,Unsubscribed
+628,SMS,2024-03-05 17:06:24,Converted
+629,Social Media,2024-01-24 19:52:54,Converted
+629,SMS,2024-01-14 21:51:46,Opened
+631,Email,2024-04-28 06:59:36,Clicked
+632,Direct Mail,2024-05-06 06:59:43,Clicked
+632,Email,2023-06-19 23:28:57,Opened
+634,SMS,2023-05-21 15:38:44,Clicked
+634,SMS,2024-04-01 15:00:48,Clicked
+634,Social Media,2023-05-31 10:43:39,Unsubscribed
+635,Social Media,2023-10-09 06:24:24,Converted
+635,Email,2024-02-13 10:42:36,Opened
+635,Email,2023-08-20 14:37:41,Converted
+636,SMS,2023-08-19 01:37:51,Clicked
+636,Social Media,2023-08-29 17:29:33,Unsubscribed
+636,Social Media,2024-02-03 01:33:14,Unsubscribed
+637,Social Media,2023-12-25 01:43:21,Opened
+637,Direct Mail,2023-11-07 12:55:55,Unsubscribed
+637,SMS,2024-04-01 23:45:53,Clicked
+639,Direct Mail,2024-04-07 11:28:15,Unsubscribed
+639,Social Media,2023-08-28 04:26:11,Unsubscribed
+639,SMS,2024-03-28 18:35:31,Unsubscribed
+640,Direct Mail,2023-05-22 19:55:15,Clicked
+644,Email,2023-06-22 04:24:37,Clicked
+644,Social Media,2024-01-01 20:59:23,Clicked
+645,Direct Mail,2024-02-06 13:21:42,Converted
+646,SMS,2023-05-30 18:57:03,Converted
+647,Email,2023-10-18 05:07:27,Converted
+648,Email,2024-03-15 19:42:42,Unsubscribed
+648,Direct Mail,2023-12-16 21:26:56,Clicked
+648,Social Media,2023-09-24 23:41:20,Opened
+649,Direct Mail,2023-09-04 11:36:48,Opened
+649,Direct Mail,2023-07-04 09:49:06,Converted
+649,Social Media,2024-04-30 02:25:58,Converted
+650,Email,2023-08-25 00:56:35,Opened
+650,Social Media,2023-10-29 07:00:17,Clicked
+651,Email,2024-02-01 01:42:32,Opened
+651,Social Media,2024-01-27 00:40:42,Unsubscribed
+652,SMS,2024-03-29 09:55:48,Clicked
+654,Direct Mail,2023-11-24 03:11:00,Clicked
+654,Social Media,2024-01-20 04:42:28,Unsubscribed
+654,Email,2023-10-03 12:05:29,Opened
+657,Social Media,2023-11-12 06:56:44,Clicked
+658,Social Media,2023-08-23 20:49:30,Clicked
+658,Direct Mail,2024-04-06 13:12:45,Unsubscribed
+658,Social Media,2024-04-26 09:08:15,Unsubscribed
+659,SMS,2023-06-10 09:54:51,Converted
+659,Social Media,2023-09-05 17:53:22,Clicked
+659,Direct Mail,2023-06-14 04:16:59,Clicked
+661,Social Media,2023-08-24 20:07:59,Unsubscribed
+662,Direct Mail,2023-06-27 17:26:34,Converted
+664,Email,2023-12-22 17:51:25,Opened
+665,SMS,2024-04-06 10:12:05,Opened
+665,Email,2023-08-12 09:04:39,Opened
+665,Direct Mail,2023-12-16 07:41:54,Clicked
+666,SMS,2024-04-26 05:51:38,Clicked
+667,Email,2024-02-11 05:37:34,Unsubscribed
+668,SMS,2023-11-27 22:25:14,Converted
+668,SMS,2024-03-09 01:01:17,Converted
+668,Direct Mail,2023-07-18 20:32:22,Clicked
+670,Direct Mail,2023-11-02 02:24:43,Converted
+671,Direct Mail,2023-11-17 17:47:47,Converted
+671,SMS,2024-04-23 14:27:42,Converted
+671,Email,2023-10-15 15:57:43,Unsubscribed
+673,Social Media,2024-03-18 18:49:46,Clicked
+677,Social Media,2024-05-03 14:26:04,Clicked
+677,Email,2023-12-21 10:21:15,Converted
+678,SMS,2024-02-12 19:44:10,Converted
+679,Social Media,2023-07-10 05:41:54,Opened
+681,Email,2023-06-29 21:35:03,Unsubscribed
+681,Social Media,2023-05-31 23:05:52,Unsubscribed
+683,Email,2023-08-01 04:13:49,Unsubscribed
+684,Social Media,2023-08-26 20:39:30,Converted
+684,Social Media,2024-03-14 12:42:22,Converted
+685,Social Media,2023-12-25 03:43:42,Unsubscribed
+685,Direct Mail,2024-03-31 00:37:09,Unsubscribed
+686,Email,2023-05-14 16:52:51,Clicked
+689,Email,2024-01-17 19:47:07,Clicked
+689,Direct Mail,2023-12-27 06:19:42,Clicked
+689,Social Media,2023-12-30 13:14:43,Opened
+691,Email,2023-05-30 04:07:09,Clicked
+691,Email,2023-12-22 09:30:18,Clicked
+691,SMS,2024-02-01 03:46:54,Converted
+692,Social Media,2023-06-17 13:50:39,Converted
+692,Email,2023-06-29 19:48:25,Converted
+692,Direct Mail,2024-05-01 09:02:31,Converted
+693,SMS,2024-03-04 03:21:18,Clicked
+695,SMS,2023-10-23 06:33:17,Clicked
+696,Email,2024-04-20 15:08:00,Clicked
+696,Social Media,2023-05-24 06:53:38,Clicked
+697,Social Media,2024-02-20 22:52:37,Unsubscribed
+699,Social Media,2023-10-07 15:39:50,Clicked
+699,Direct Mail,2024-04-19 16:19:43,Clicked
+700,Direct Mail,2024-04-19 20:14:24,Unsubscribed
+700,Email,2023-09-15 23:13:39,Opened
+700,SMS,2023-10-26 14:57:28,Clicked
+701,Direct Mail,2023-06-05 10:33:14,Clicked
+703,Email,2024-02-09 12:24:48,Clicked
+703,Email,2023-10-07 17:06:03,Converted
+703,Email,2023-11-03 05:20:58,Converted
+704,Social Media,2024-05-04 07:56:28,Unsubscribed
+704,Direct Mail,2023-08-08 20:15:59,Clicked
+705,Email,2023-12-23 23:38:19,Converted
+706,Direct Mail,2024-03-31 05:14:34,Converted
+706,Direct Mail,2023-08-09 01:16:24,Clicked
+706,Direct Mail,2023-11-30 03:26:36,Unsubscribed
+707,SMS,2024-04-03 01:59:58,Unsubscribed
+707,Social Media,2023-11-21 15:26:27,Converted
+707,SMS,2023-07-20 04:01:07,Opened
+708,Direct Mail,2023-12-01 14:14:31,Unsubscribed
+709,Direct Mail,2023-10-05 01:01:10,Clicked
+710,Direct Mail,2024-04-01 00:21:14,Converted
+711,Social Media,2024-01-16 19:42:46,Opened
+712,SMS,2023-09-03 21:23:17,Opened
+712,SMS,2023-08-11 17:15:21,Unsubscribed
+713,Direct Mail,2023-05-21 01:36:10,Clicked
+714,Social Media,2023-12-14 22:47:35,Opened
+716,Email,2024-01-14 10:58:06,Unsubscribed
+717,Direct Mail,2024-01-13 02:02:12,Converted
+717,Email,2023-06-18 13:54:08,Unsubscribed
+718,SMS,2023-06-02 17:45:49,Clicked
+718,Direct Mail,2023-07-06 19:02:51,Converted
+718,SMS,2023-08-13 10:00:48,Clicked
+720,Direct Mail,2024-01-01 12:18:31,Opened
+720,Direct Mail,2023-12-16 04:24:01,Converted
+720,SMS,2023-09-15 00:45:43,Converted
+722,Direct Mail,2023-09-01 01:38:33,Unsubscribed
+722,Direct Mail,2023-08-01 20:40:51,Unsubscribed
+722,Direct Mail,2023-08-08 11:22:29,Unsubscribed
+723,Social Media,2024-02-20 11:26:45,Converted
+724,SMS,2024-01-28 19:21:52,Converted
+724,Social Media,2023-10-23 00:55:44,Opened
+724,Email,2023-07-19 10:02:19,Clicked
+725,SMS,2023-10-21 13:06:54,Unsubscribed
+726,Email,2023-07-05 13:19:33,Clicked
+726,Social Media,2023-10-29 07:26:30,Unsubscribed
+727,SMS,2023-09-27 12:05:18,Converted
+727,Direct Mail,2023-06-08 04:06:00,Clicked
+729,Social Media,2024-04-24 10:18:14,Converted
+729,Social Media,2024-02-05 00:02:03,Opened
+730,Direct Mail,2024-01-23 21:42:35,Opened
+730,Social Media,2024-04-21 22:25:47,Unsubscribed
+731,SMS,2024-04-05 08:56:08,Unsubscribed
+731,Email,2024-05-11 12:29:45,Clicked
+732,SMS,2024-04-30 22:00:38,Converted
+732,SMS,2024-04-17 02:07:00,Unsubscribed
+733,SMS,2023-08-24 16:11:23,Opened
+733,Direct Mail,2023-10-03 09:25:28,Opened
+734,Social Media,2023-08-11 12:48:30,Opened
+735,Email,2023-08-31 20:05:54,Unsubscribed
+735,Email,2023-12-25 09:16:22,Unsubscribed
+736,Direct Mail,2024-01-02 00:08:10,Converted
+738,Email,2023-09-14 01:46:32,Unsubscribed
+738,Social Media,2024-02-08 21:14:00,Unsubscribed
+738,SMS,2024-03-21 06:55:57,Converted
+739,SMS,2023-12-16 04:40:51,Converted
+740,Direct Mail,2024-03-22 03:24:52,Opened
+741,Direct Mail,2023-08-10 18:24:15,Unsubscribed
+741,Direct Mail,2023-10-31 23:15:01,Opened
+741,Email,2024-01-06 11:48:44,Opened
+742,Direct Mail,2023-08-08 05:09:58,Opened
+744,Social Media,2023-11-21 01:40:39,Converted
+744,Social Media,2024-01-22 02:05:34,Converted
+744,SMS,2023-10-26 15:50:03,Converted
+745,Social Media,2023-10-03 14:52:47,Opened
+745,Direct Mail,2023-08-29 04:46:59,Converted
+747,Direct Mail,2023-12-10 21:16:31,Clicked
+747,Direct Mail,2023-10-30 15:04:58,Unsubscribed
+749,Social Media,2024-02-20 23:29:32,Converted
+750,Direct Mail,2023-07-13 16:39:30,Unsubscribed
+750,SMS,2024-01-16 15:22:31,Clicked
+750,Direct Mail,2024-05-02 10:40:13,Converted
+751,SMS,2023-08-29 20:52:40,Unsubscribed
+751,Direct Mail,2023-12-19 00:41:21,Converted
+754,Direct Mail,2024-01-28 13:28:50,Unsubscribed
+754,Email,2024-01-03 00:23:40,Opened
+754,Direct Mail,2023-08-12 07:51:41,Opened
+755,Email,2024-02-19 20:59:20,Unsubscribed
+755,Direct Mail,2024-02-24 19:03:08,Unsubscribed
+755,Email,2024-04-28 12:30:17,Opened
+756,Social Media,2023-09-09 16:51:15,Unsubscribed
+756,Email,2023-07-14 05:32:14,Unsubscribed
+756,Social Media,2023-09-22 22:31:37,Clicked
+757,SMS,2023-07-13 00:03:49,Clicked
+757,Email,2024-01-25 01:23:37,Clicked
+758,Direct Mail,2023-08-07 15:19:10,Clicked
+760,SMS,2023-07-11 07:20:51,Converted
+760,Social Media,2023-08-26 06:51:58,Converted
+761,Email,2023-07-23 20:09:26,Unsubscribed
+761,Direct Mail,2024-01-18 10:07:28,Clicked
+762,Email,2024-01-26 10:48:28,Clicked
+763,Direct Mail,2023-06-02 17:18:10,Unsubscribed
+764,SMS,2023-07-30 10:09:26,Unsubscribed
+764,Email,2023-06-10 03:20:51,Opened
+764,Direct Mail,2023-10-01 17:19:08,Opened
+765,Social Media,2023-06-11 11:36:29,Clicked
+765,SMS,2023-08-27 20:08:07,Unsubscribed
+765,SMS,2023-07-05 19:35:33,Converted
+769,Direct Mail,2023-12-18 01:53:49,Opened
+771,Social Media,2023-12-03 23:14:06,Unsubscribed
+771,Social Media,2023-08-31 01:52:29,Clicked
+772,Social Media,2023-10-21 09:19:05,Opened
+772,Social Media,2023-06-30 02:18:05,Clicked
+772,Social Media,2023-11-08 19:43:53,Converted
+774,Social Media,2024-01-08 18:39:30,Opened
+774,Direct Mail,2024-03-28 03:30:38,Opened
+775,Social Media,2023-06-09 06:27:03,Opened
+775,Direct Mail,2023-07-12 19:52:32,Converted
+775,Social Media,2024-01-16 23:42:34,Converted
+777,Email,2023-12-12 10:19:44,Converted
+777,Social Media,2024-01-29 10:25:59,Unsubscribed
+777,Social Media,2024-01-09 01:00:24,Unsubscribed
+780,Email,2024-04-13 01:36:10,Clicked
+780,Email,2023-11-12 23:53:48,Clicked
+781,Direct Mail,2024-02-10 05:35:33,Unsubscribed
+782,Social Media,2023-12-02 07:36:31,Clicked
+782,Direct Mail,2024-01-25 23:51:11,Unsubscribed
+782,Email,2023-07-14 01:44:16,Clicked
+784,Social Media,2024-03-18 13:47:19,Opened
+785,SMS,2023-05-30 11:46:02,Unsubscribed
+788,Email,2023-10-05 11:37:18,Opened
+788,Email,2024-03-10 07:33:20,Unsubscribed
+789,Social Media,2023-10-06 14:15:14,Opened
+789,SMS,2024-04-16 03:15:58,Unsubscribed
+791,Social Media,2023-09-19 12:00:26,Unsubscribed
+791,Social Media,2024-05-03 08:05:56,Unsubscribed
+791,SMS,2023-05-18 07:15:20,Unsubscribed
+792,Email,2023-06-16 09:44:42,Clicked
+793,Social Media,2024-02-22 16:53:12,Unsubscribed
+793,SMS,2023-10-08 10:27:44,Clicked
+793,Social Media,2023-06-26 02:05:43,Converted
+794,Social Media,2023-09-13 01:25:12,Converted
+794,Email,2024-02-21 23:13:18,Opened
+795,Email,2023-10-18 22:38:44,Opened
+795,Direct Mail,2024-03-01 23:21:07,Opened
+796,Direct Mail,2023-07-26 12:35:30,Unsubscribed
+796,SMS,2024-01-15 16:26:30,Opened
+796,Direct Mail,2023-07-08 21:50:09,Unsubscribed
+797,Social Media,2023-10-19 13:50:08,Clicked
+797,Social Media,2024-03-19 20:48:28,Opened
+798,Email,2023-06-09 11:01:40,Unsubscribed
+798,Direct Mail,2023-07-30 17:26:51,Clicked
+799,Direct Mail,2023-11-17 00:37:09,Unsubscribed
+799,Email,2024-04-07 00:02:04,Clicked
+800,Social Media,2023-10-18 10:48:22,Unsubscribed
+802,Social Media,2024-02-16 10:06:54,Unsubscribed
+803,Direct Mail,2024-04-07 08:59:36,Opened
+804,SMS,2024-01-18 06:58:23,Unsubscribed
+804,Direct Mail,2023-12-26 10:20:23,Unsubscribed
+804,Social Media,2024-04-21 10:20:10,Unsubscribed
+805,Email,2023-05-14 20:29:13,Opened
+805,Email,2023-06-03 03:50:47,Unsubscribed
+806,Direct Mail,2023-11-28 05:32:07,Unsubscribed
+806,Email,2024-03-15 10:12:49,Unsubscribed
+807,Email,2024-04-03 13:46:16,Clicked
+807,Social Media,2024-02-02 02:45:33,Clicked
+808,Direct Mail,2023-11-02 11:20:30,Opened
+808,Social Media,2023-09-18 14:23:14,Clicked
+809,Email,2024-04-06 13:27:04,Clicked
+809,SMS,2023-07-09 10:27:48,Opened
+809,Email,2023-06-03 12:09:01,Unsubscribed
+811,Social Media,2024-04-11 15:48:23,Converted
+811,SMS,2023-12-20 01:36:56,Clicked
+811,Social Media,2024-05-11 18:16:45,Converted
+812,Direct Mail,2024-01-11 09:08:39,Clicked
+813,Social Media,2023-07-15 18:40:23,Unsubscribed
+814,SMS,2023-06-28 12:45:59,Unsubscribed
+814,Email,2023-11-18 02:39:07,Clicked
+814,SMS,2023-08-13 04:18:37,Opened
+815,Email,2023-11-11 06:04:50,Opened
+816,SMS,2024-02-15 20:29:12,Unsubscribed
+816,SMS,2024-02-19 22:27:36,Clicked
+816,SMS,2023-09-13 14:23:38,Clicked
+817,Direct Mail,2023-10-03 00:58:22,Clicked
+817,SMS,2023-06-15 18:25:31,Clicked
+817,Direct Mail,2023-12-01 07:42:23,Opened
+818,SMS,2023-09-10 06:55:25,Opened
+818,SMS,2023-06-04 01:44:23,Converted
+819,Email,2024-03-02 13:46:57,Opened
+819,Social Media,2023-12-02 13:26:10,Opened
+819,SMS,2023-07-08 01:48:22,Clicked
+821,Direct Mail,2023-07-25 22:18:54,Opened
+821,SMS,2024-05-05 14:44:45,Opened
+821,Direct Mail,2023-06-23 17:02:46,Unsubscribed
+822,Email,2023-07-30 19:02:01,Opened
+822,Social Media,2023-12-21 22:27:16,Converted
+822,SMS,2023-09-02 08:04:48,Clicked
+823,Social Media,2023-08-27 22:08:30,Clicked
+825,SMS,2024-04-12 16:20:59,Unsubscribed
+825,Social Media,2023-07-19 15:41:17,Unsubscribed
+825,Direct Mail,2024-01-27 22:40:52,Clicked
+826,Social Media,2024-02-02 17:41:38,Unsubscribed
+826,Email,2023-07-13 09:49:13,Clicked
+826,SMS,2023-11-05 05:01:00,Converted
+830,SMS,2023-07-06 02:57:09,Opened
+831,Direct Mail,2023-11-08 00:51:32,Opened
+831,SMS,2024-01-15 07:23:27,Clicked
+831,SMS,2023-10-21 14:47:41,Unsubscribed
+834,Direct Mail,2023-08-03 19:57:24,Clicked
+835,Email,2023-09-16 15:57:24,Opened
+836,Email,2023-10-30 19:05:57,Converted
+836,Direct Mail,2023-10-16 02:47:04,Unsubscribed
+836,Email,2023-06-23 06:27:22,Clicked
+837,Email,2023-06-15 05:13:03,Clicked
+838,SMS,2023-10-15 23:03:48,Unsubscribed
+838,SMS,2024-01-24 06:13:06,Unsubscribed
+838,Email,2023-05-29 04:26:10,Opened
+842,SMS,2024-05-12 08:28:37,Converted
+842,Social Media,2023-07-30 21:21:27,Unsubscribed
+843,Direct Mail,2024-01-19 17:33:36,Unsubscribed
+843,Social Media,2023-11-04 18:45:33,Clicked
+843,SMS,2023-05-21 06:55:46,Opened
+844,Email,2023-07-18 11:47:12,Opened
+844,Direct Mail,2023-05-15 11:22:37,Opened
+844,Social Media,2024-04-18 17:17:02,Unsubscribed
+845,SMS,2023-08-31 15:23:52,Converted
+845,SMS,2024-01-21 15:51:52,Opened
+846,Email,2023-09-21 04:10:34,Unsubscribed
+847,Social Media,2023-07-02 05:30:46,Opened
+847,Social Media,2023-06-10 08:21:27,Unsubscribed
+848,SMS,2023-11-05 21:08:52,Unsubscribed
+848,SMS,2023-11-11 14:32:47,Opened
+848,Social Media,2024-02-15 01:29:39,Unsubscribed
+849,Email,2024-01-24 17:31:11,Unsubscribed
+849,Email,2023-06-10 16:55:51,Converted
+850,Social Media,2023-11-25 08:35:58,Converted
+850,Direct Mail,2023-06-30 10:52:18,Unsubscribed
+851,SMS,2023-08-02 13:52:38,Converted
+851,SMS,2023-06-20 18:10:01,Converted
+852,Direct Mail,2023-11-20 21:15:22,Clicked
+852,Direct Mail,2023-06-13 16:03:16,Clicked
+852,Social Media,2023-12-18 15:27:37,Clicked
+853,SMS,2023-10-26 20:45:20,Unsubscribed
+855,Email,2023-05-15 14:52:50,Clicked
+855,Social Media,2023-11-28 12:08:39,Opened
+857,SMS,2023-10-09 12:15:15,Opened
+860,SMS,2023-12-01 14:32:03,Opened
+861,Direct Mail,2023-05-23 18:05:59,Converted
+862,Social Media,2023-09-15 09:34:41,Clicked
+862,Social Media,2023-11-22 04:24:56,Clicked
+863,Email,2023-09-14 21:15:46,Opened
+864,Social Media,2024-01-25 10:30:14,Clicked
+864,Email,2023-07-24 17:20:03,Converted
+864,Direct Mail,2023-09-19 22:36:09,Clicked
+865,Direct Mail,2023-05-20 16:55:03,Converted
+865,Email,2023-12-02 22:07:56,Converted
+866,Email,2023-08-01 02:50:47,Clicked
+867,Email,2023-11-23 10:56:23,Converted
+867,Social Media,2023-12-03 13:39:08,Unsubscribed
+867,SMS,2023-06-02 13:41:26,Opened
+868,Email,2023-12-19 12:50:15,Unsubscribed
+868,Email,2023-09-17 00:49:43,Converted
+869,Social Media,2023-07-01 08:26:44,Opened
+871,Email,2024-02-20 14:20:03,Unsubscribed
+871,SMS,2023-12-17 05:02:32,Converted
+873,SMS,2023-08-04 07:01:50,Unsubscribed
+874,Social Media,2023-12-16 00:59:37,Converted
+874,Social Media,2023-05-19 07:12:19,Unsubscribed
+875,Direct Mail,2024-04-26 01:11:51,Clicked
+878,Email,2023-06-11 15:36:31,Opened
+879,Email,2023-10-16 18:36:23,Opened
+880,SMS,2023-07-23 06:00:49,Opened
+880,Direct Mail,2024-04-03 08:19:41,Clicked
+880,SMS,2024-01-20 20:17:04,Unsubscribed
+881,Email,2024-05-08 22:45:23,Unsubscribed
+882,Email,2023-09-09 16:12:53,Clicked
+883,Direct Mail,2024-03-02 07:56:53,Converted
+883,SMS,2023-06-13 22:16:08,Unsubscribed
+884,Social Media,2023-05-14 01:16:55,Converted
+885,SMS,2023-12-25 04:16:11,Clicked
+885,Social Media,2023-10-07 04:41:58,Opened
+886,Email,2023-09-21 08:32:40,Converted
+887,Direct Mail,2024-03-19 18:00:37,Unsubscribed
+887,Email,2023-10-13 09:24:57,Unsubscribed
+888,SMS,2023-08-31 09:22:15,Opened
+888,Email,2023-09-07 00:39:12,Clicked
+889,Social Media,2023-12-31 18:15:04,Unsubscribed
+889,Direct Mail,2023-08-18 08:30:26,Clicked
+889,Email,2023-07-03 20:35:33,Converted
+890,SMS,2024-03-08 23:52:47,Unsubscribed
+890,Email,2023-10-06 17:03:44,Clicked
+890,Social Media,2024-02-20 11:59:05,Unsubscribed
+891,Direct Mail,2023-12-10 07:57:56,Converted
+891,SMS,2024-03-23 15:45:06,Converted
+893,Social Media,2023-08-24 19:07:22,Clicked
+893,Social Media,2023-10-29 07:04:31,Opened
+893,Email,2023-05-14 12:26:36,Unsubscribed
+894,Direct Mail,2023-12-16 20:19:24,Clicked
+894,Social Media,2023-07-05 01:10:49,Unsubscribed
+894,Social Media,2023-06-19 02:27:59,Unsubscribed
+895,Social Media,2023-09-16 12:14:22,Unsubscribed
+895,Email,2023-06-28 15:39:18,Unsubscribed
+895,Direct Mail,2023-05-17 18:46:32,Opened
+896,Direct Mail,2024-03-10 04:38:06,Unsubscribed
+897,Social Media,2024-03-16 16:54:37,Clicked
+898,Social Media,2023-07-19 18:24:37,Opened
+898,Social Media,2023-10-11 17:24:25,Unsubscribed
+899,SMS,2023-12-14 07:22:24,Clicked
+900,Direct Mail,2023-09-29 23:10:27,Clicked
+900,Direct Mail,2024-03-11 21:53:50,Clicked
+901,Direct Mail,2023-07-23 22:29:32,Converted
+901,Social Media,2024-03-11 23:00:35,Opened
+902,SMS,2024-03-03 18:09:35,Unsubscribed
+902,Direct Mail,2023-05-25 09:34:49,Converted
+902,SMS,2023-09-20 10:59:03,Converted
+903,Social Media,2023-08-19 08:42:21,Clicked
+904,Direct Mail,2024-01-23 22:11:14,Unsubscribed
+904,SMS,2024-03-10 02:47:32,Clicked
+904,Social Media,2023-09-18 20:55:59,Opened
+905,Social Media,2024-04-26 06:49:29,Opened
+905,Social Media,2023-06-15 19:07:25,Converted
+906,Direct Mail,2023-05-14 15:48:32,Opened
+906,SMS,2024-01-23 00:57:18,Opened
+907,SMS,2024-01-20 17:17:16,Unsubscribed
+907,SMS,2023-11-18 06:29:33,Converted
+908,Social Media,2024-02-05 03:23:43,Unsubscribed
+908,Direct Mail,2024-04-05 15:35:25,Opened
+908,SMS,2024-01-27 02:19:34,Clicked
+909,SMS,2023-12-10 20:17:05,Opened
+909,Direct Mail,2023-12-23 09:09:12,Converted
+913,SMS,2024-04-04 21:46:51,Opened
+913,SMS,2024-02-17 22:49:36,Opened
+913,SMS,2023-10-21 03:29:50,Unsubscribed
+914,Social Media,2023-08-31 07:04:12,Clicked
+914,Social Media,2023-05-29 02:15:09,Opened
+916,Direct Mail,2023-06-17 16:03:56,Clicked
+917,Social Media,2024-04-19 22:10:03,Opened
+917,SMS,2023-10-02 14:54:02,Unsubscribed
+917,Email,2023-10-16 16:18:18,Opened
+918,Social Media,2024-03-07 18:11:37,Converted
+918,SMS,2023-05-31 03:33:57,Clicked
+919,Social Media,2023-09-10 08:32:33,Opened
+920,Email,2024-03-15 22:55:25,Clicked
+921,Email,2024-02-09 04:24:50,Unsubscribed
+921,SMS,2023-12-23 11:48:24,Clicked
+921,Social Media,2023-08-01 03:57:11,Opened
+922,SMS,2023-09-16 13:10:09,Clicked
+922,SMS,2023-06-28 14:32:59,Unsubscribed
+923,SMS,2023-12-10 01:25:00,Converted
+924,Email,2023-11-03 06:43:32,Unsubscribed
+924,Direct Mail,2024-04-25 19:51:42,Converted
+924,Direct Mail,2023-07-03 07:48:32,Opened
+925,SMS,2024-02-04 08:00:18,Unsubscribed
+926,SMS,2024-03-02 21:40:11,Converted
+926,SMS,2023-09-01 16:40:38,Opened
+926,SMS,2024-04-15 12:29:03,Opened
+927,Direct Mail,2024-02-15 04:43:21,Opened
+927,Social Media,2023-10-06 00:37:25,Clicked
+929,Email,2023-08-21 15:47:45,Clicked
+929,Email,2023-08-16 04:07:47,Unsubscribed
+929,Social Media,2023-11-19 08:02:05,Converted
+930,Direct Mail,2023-06-27 04:10:09,Clicked
+930,Direct Mail,2023-09-07 08:35:29,Converted
+930,SMS,2023-05-14 17:00:38,Unsubscribed
+931,Social Media,2023-11-27 06:18:40,Converted
+931,SMS,2024-03-21 22:38:48,Clicked
+932,Email,2024-03-02 00:27:12,Converted
+932,SMS,2024-02-16 14:40:47,Converted
+932,Social Media,2023-05-22 09:36:54,Converted
+933,Email,2023-06-18 00:02:12,Clicked
+933,Direct Mail,2023-09-15 13:11:26,Converted
+934,Email,2023-08-19 03:22:15,Opened
+934,SMS,2023-09-29 02:27:43,Converted
+934,Direct Mail,2023-12-27 18:57:03,Converted
+938,Direct Mail,2024-03-05 23:24:40,Opened
+939,Social Media,2023-08-13 22:43:33,Unsubscribed
+939,SMS,2023-06-05 05:55:43,Converted
+939,SMS,2024-04-03 06:03:48,Clicked
+940,Email,2024-03-15 21:07:36,Clicked
+941,Social Media,2023-06-08 07:09:35,Opened
+942,Email,2024-02-26 04:39:13,Unsubscribed
+943,Email,2024-02-22 16:06:23,Unsubscribed
+943,Direct Mail,2023-11-22 04:18:05,Opened
+944,SMS,2023-10-08 09:30:13,Clicked
+944,SMS,2024-01-22 08:53:46,Opened
+945,Direct Mail,2024-01-29 02:28:42,Converted
+945,Email,2024-02-04 06:43:40,Opened
+945,SMS,2024-03-10 10:23:01,Unsubscribed
+946,SMS,2023-09-12 23:42:25,Opened
+947,SMS,2023-10-01 15:16:02,Converted
+947,Direct Mail,2023-12-14 14:35:36,Opened
+949,Email,2023-11-03 14:16:42,Unsubscribed
+951,Direct Mail,2024-03-26 16:24:05,Converted
+951,SMS,2024-04-07 15:15:17,Opened
+951,SMS,2023-11-22 03:20:38,Opened
+952,Email,2023-11-30 11:52:41,Converted
+952,Social Media,2023-09-07 10:37:29,Unsubscribed
+953,Email,2023-06-26 11:20:33,Clicked
+953,Direct Mail,2024-03-15 07:39:05,Opened
+954,SMS,2023-11-05 22:44:16,Clicked
+955,SMS,2024-02-17 09:50:34,Clicked
+955,Email,2024-05-01 00:59:31,Clicked
+957,Social Media,2024-01-25 05:50:50,Opened
+958,Social Media,2024-02-06 17:04:55,Unsubscribed
+959,Email,2024-05-12 17:56:44,Converted
+959,Social Media,2023-06-09 17:51:04,Unsubscribed
+959,Direct Mail,2023-07-09 16:53:44,Unsubscribed
+960,SMS,2024-04-21 13:04:04,Clicked
+960,SMS,2023-08-15 05:44:44,Converted
+960,SMS,2024-01-19 04:54:28,Unsubscribed
+961,Email,2023-08-18 17:06:39,Unsubscribed
+961,SMS,2023-07-08 18:01:03,Unsubscribed
+961,Email,2023-11-14 12:52:50,Opened
+963,Social Media,2023-11-24 14:51:01,Opened
+963,Social Media,2023-11-03 04:08:57,Clicked
+963,Email,2023-08-20 16:32:08,Converted
+965,Email,2024-05-06 02:45:51,Clicked
+965,Direct Mail,2024-05-09 17:09:21,Converted
+965,Direct Mail,2024-03-16 17:17:03,Converted
+967,Email,2023-06-16 13:09:39,Opened
+968,SMS,2023-05-22 22:32:52,Converted
+968,SMS,2023-11-16 02:35:19,Converted
+969,SMS,2023-11-19 10:35:33,Converted
+969,SMS,2023-07-15 06:57:06,Unsubscribed
+969,Email,2023-10-04 04:03:48,Unsubscribed
+970,Direct Mail,2023-12-22 18:04:20,Opened
+971,Social Media,2024-02-05 19:08:14,Converted
+971,Direct Mail,2023-07-10 01:21:25,Opened
+974,Social Media,2024-01-20 14:08:47,Clicked
+974,Social Media,2023-09-30 12:32:50,Converted
+975,Email,2023-08-16 18:59:09,Opened
+977,Social Media,2023-07-12 04:04:43,Converted
+978,Email,2024-01-15 21:01:57,Clicked
+979,Email,2024-01-20 19:26:58,Converted
+979,Social Media,2023-06-24 18:48:03,Opened
+980,Direct Mail,2023-11-23 08:43:21,Clicked
+983,Email,2024-05-03 18:02:16,Unsubscribed
+983,SMS,2023-12-13 03:25:33,Clicked
+983,Email,2023-11-18 09:57:58,Converted
+985,Direct Mail,2024-03-10 19:57:45,Converted
+985,Direct Mail,2023-06-20 18:36:31,Clicked
+987,Email,2023-06-22 09:14:58,Converted
+987,SMS,2023-10-11 23:38:56,Opened
+988,Direct Mail,2023-09-18 14:29:27,Unsubscribed
+989,Social Media,2023-12-31 11:48:59,Clicked
+989,Email,2023-06-03 23:44:20,Opened
+990,Email,2023-12-25 02:23:19,Unsubscribed
+991,Social Media,2024-04-01 16:55:51,Unsubscribed
+991,Email,2024-05-01 22:13:13,Unsubscribed
+991,Social Media,2023-06-03 11:06:16,Opened
+992,Direct Mail,2023-11-06 09:18:38,Opened
+993,Social Media,2023-09-28 23:02:36,Unsubscribed
+993,Email,2024-03-08 04:17:31,Unsubscribed
+993,Social Media,2023-11-25 07:34:57,Converted
+994,SMS,2023-11-15 12:13:34,Opened
+994,Direct Mail,2024-03-08 01:24:09,Clicked
+994,Social Media,2023-06-16 20:13:35,Clicked
+995,Social Media,2023-10-02 04:07:14,Opened
+996,Direct Mail,2024-04-01 00:01:08,Converted
+996,Email,2023-12-03 08:58:35,Converted
+997,Email,2024-02-05 02:22:08,Unsubscribed
+997,Social Media,2024-02-08 03:04:33,Opened
+997,Social Media,2024-04-10 07:27:51,Clicked
+998,Social Media,2024-01-31 11:54:31,Unsubscribed
+998,Social Media,2023-11-18 07:52:06,Converted
+999,Email,2023-09-21 02:17:44,Converted
